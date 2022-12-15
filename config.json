@@ -5,7 +5,7 @@
         "transformGroup": "scss",
         "buildPath": "build/scss/",
         "files": [{
-          "destination": "_tokens.scss",
+          "destination": "_variables.scss",
           "format": "scss/variables"
         }]
       },
@@ -13,7 +13,7 @@
         "transformGroup": "css",
         "buildPath": "build/css/",
         "files": [{
-          "destination": "tokens.css",
+          "destination": "variables.css",
           "format": "css/variables"
         }]
       },
