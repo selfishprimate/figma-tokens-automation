@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 20:25:53 GMT
+ * Generated on Fri, 16 Dec 2022 20:35:48 GMT
  */
 
 :root {
@@ -71,7 +71,7 @@
   --global-font-size-7xlarge: 5.159780351999999rem;
   --global-font-size-8xlarge: 6.191736422399999rem;
   --global-font-size-9xlarge: 7.430083706879999rem;
-  --global-font-size-10xlarge: roundTo(7.430083706879999rem * 1.2);
+  --global-font-size-10xlarge: 8.916100448255998rem;
   --global-font-family-montserrat: Montserrat, sans-serif;
   --global-font-family-tajawal: Tajawal, sans-serif;
   --global-font-family-inter: Inter, sans-serif;
