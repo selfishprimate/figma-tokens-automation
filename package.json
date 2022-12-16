@@ -19,6 +19,7 @@
     "color2k": "^2.0.0",
     "path": "^0.12.7",
     "style-dictionary": "3.7.1",
-    "tinycolor2": "^1.4.2"
+    "tinycolor2": "^1.4.2",
+    "token-transformer": "^0.0.28"
   }
 }
