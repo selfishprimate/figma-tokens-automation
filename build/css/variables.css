@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 20:35:48 GMT
+ * Generated on Fri, 16 Dec 2022 20:55:33 GMT
  */
 
 :root {
@@ -31,10 +31,10 @@
   --joi-spacing-medium-200: 36px;
   --joi-spacing-medium-300: 40px;
   --joi-spacing-medium-400: 44px;
-  --joi-typography-display-large-font-family: Montserrat, sans-serif;
-  --joi-typography-display-large-font-weight: 700;
-  --joi-typography-display-large-line-height: 130%;
-  --joi-typography-display-large-font-size: 2.0736rem;
+  --joi-font-display-large-font-family: Montserrat, sans-serif;
+  --joi-font-display-large-font-weight: 700;
+  --joi-font-display-large-line-height: 130%;
+  --joi-font-display-large-font-size: 2.0736rem;
   --global-font-weight-thin: 100;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
