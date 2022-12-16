@@ -8,10 +8,9 @@
     "properties"
   ],
   "scripts": {
-    "build": "style-dictionary build --config ./config.js",
+    "build": "token-transformer figmaTokens.json tokens/tokens.json global,joi --expandTypography=true && style-dictionary build --config ./config.js",
     "clean": "rm -rf build",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "transform": "token-transformer figmaTokens.json tokens/tokens.json global,joi"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "Apache-2.0",
