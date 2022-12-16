@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 12:45:37 GMT
+ * Generated on Fri, 16 Dec 2022 12:48:05 GMT
  */
 
 :root {
@@ -27,15 +27,6 @@
   --spacing-default-200: 16px;
   --spacing-default-300: 24px;
   --spacing-default-400: 32px;
-  --font-weight-thin: 100;
-  --font-weight-extra-light: 200;
-  --font-weight-light: 300;
-  --font-weight-normal: 400;
-  --font-weight-medium: 500;
-  --font-weight-semi-bold: 600;
-  --font-weight-bold: 700;
-  --font-weight-extra-bold: 800;
-  --font-weight-black: 900;
   --border-radius-none: 0;
   --border-radius-xsmall: 2px;
   --border-radius-small: 4px;
