@@ -885,7 +885,7 @@
           }
         }
       },
-      "typography": {
+      "font": {
         "display": {
           "large": {
             "value": {
