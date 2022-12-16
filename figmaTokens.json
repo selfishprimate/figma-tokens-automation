@@ -865,6 +865,24 @@
             "value": "32px",
             "type": "spacing"
           }
+        },
+        "medium": {
+          "100": {
+            "value": "34px",
+            "type": "spacing"
+          },
+          "200": {
+            "value": "36px",
+            "type": "spacing"
+          },
+          "300": {
+            "value": "40px",
+            "type": "spacing"
+          },
+          "400": {
+            "value": "44px",
+            "type": "spacing"
+          }
         }
       },
       "typography": {
