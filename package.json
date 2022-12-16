@@ -11,7 +11,7 @@
     "build": "style-dictionary build --config ./config.js",
     "clean": "rm -rf build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "transform": "token-transformer figmaTokens.json tokens/tokens.json global,semantic"
+    "transform": "token-transformer figmaTokens.json tokens/tokens.json global,joi"
   },
   "author": "",
   "license": "Apache-2.0",
