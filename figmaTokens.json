@@ -866,6 +866,19 @@
             "type": "spacing"
           }
         }
+      },
+      "typography": {
+        "display": {
+          "large": {
+            "value": {
+              "fontFamily": "{global.fontFamily.montserrat}",
+              "fontWeight": "{global.fontWeight.bold}",
+              "lineHeight": "{global.lineHeight.medium}",
+              "fontSize": "{global.fontSize.2xlarge}"
+            },
+            "type": "typography"
+          }
+        }
       }
     }
   },
