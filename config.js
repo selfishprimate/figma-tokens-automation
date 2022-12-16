@@ -21,3 +21,5 @@ module.exports = {
     }
   }
 }
+
+console.log('Build completed!');
