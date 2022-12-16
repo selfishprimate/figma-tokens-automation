@@ -3,10 +3,7 @@
 
 name: Node.js CI
 
-on:
-  push:
-    paths:
-      - 'tokens/tokens.json'
+on: [push]
       
 jobs:
   generate_tokens:
