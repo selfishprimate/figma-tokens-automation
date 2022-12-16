@@ -154,7 +154,7 @@
           "type": "fontSizes"
         },
         "10xlarge": {
-          "value": "{global.fontSize.9xlarge} * {global.fontSize.scale}",
+          "value": "roundTo({global.fontSize.9xlarge} * {global.fontSize.scale})",
           "type": "fontSizes"
         }
       },
