@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 13:52:38 GMT
+ * Generated on Fri, 16 Dec 2022 13:57:24 GMT
  */
 
 :root {
@@ -27,6 +27,7 @@
   --joi-spacing-default-200: 16px;
   --joi-spacing-default-300: 24px;
   --joi-spacing-default-400: 32px;
+  --joi-typography-display-large: [object Object];
   --global-font-weight-thin: 100;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
