@@ -3,7 +3,7 @@
     "global": {
       "fontWeight": {
         "thin": {
-          "value": "100",
+          "value": "200",
           "type": "fontWeights"
         },
         "extraLight": {
@@ -949,6 +949,30 @@
               "fontSize": "{global.fontSize.2xlarge}"
             },
             "type": "typography"
+          }
+        }
+      },
+      "color": {
+        "primary": {
+          "default": {
+            "value": "{global.color.indigo.400}",
+            "type": "color"
+          },
+          "on-primary": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{global.color.indigo.500}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{global.color.indigo.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{global.color.indigo.200}",
+            "type": "color"
           }
         }
       }
