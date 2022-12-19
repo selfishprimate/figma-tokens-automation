@@ -939,14 +939,88 @@
           }
         }
       },
-      "font": {
+      "typescale": {
         "display": {
           "large": {
             "value": {
-              "fontFamily": "{global.fontFamily.montserrat}",
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.medium}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.9xlarge}"
+            },
+            "type": "typography"
+          },
+          "medium": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.normal}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.8xlarge}"
+            },
+            "type": "typography"
+          },
+          "small": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.normal}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.7xlarge}"
+            },
+            "type": "typography"
+          }
+        },
+        "heading": {
+          "01": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.bold}",
-              "lineHeight": "{global.lineHeight.medium}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.5xlarge}"
+            },
+            "type": "typography"
+          },
+          "02": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.bold}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.4xlarge}"
+            },
+            "type": "typography"
+          },
+          "03": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.bold}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.3xlarge}"
+            },
+            "type": "typography"
+          },
+          "04": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.semiBold}",
+              "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.2xlarge}"
+            },
+            "type": "typography"
+          },
+          "05": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.semiBold}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.xlarge}"
+            },
+            "type": "typography"
+          },
+          "06": {
+            "value": {
+              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontWeight": "{global.fontWeight.semiBold}",
+              "lineHeight": "{global.lineHeight.large}",
+              "fontSize": "{global.fontSize.large}"
             },
             "type": "typography"
           }
@@ -973,6 +1047,18 @@
           "subtle": {
             "value": "{global.color.indigo.200}",
             "type": "color"
+          }
+        }
+      },
+      "fontFamily": {
+        "brand": {
+          "ltr": {
+            "value": "{global.fontFamily.montserrat}",
+            "type": "fontFamilies"
+          },
+          "rtl": {
+            "value": "{global.fontFamily.tajawal}",
+            "type": "fontFamilies"
           }
         }
       }
