@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 17 Dec 2022 12:44:39 GMT
+ * Generated on Mon, 19 Dec 2022 17:11:06 GMT
  */
 
 :root {
@@ -46,7 +46,7 @@
   --joi-font-display-large-font-family: Montserrat, sans-serif;
   --joi-font-display-large-font-weight: 700;
   --joi-font-display-large-line-height: 130%;
-  --joi-font-display-large-font-size: 2.0736rem;
+  --joi-font-display-large-font-size: 26;
   --joi-color-primary-default: #505cc0;
   --joi-color-primary-on-primary: #ffffff;
   --joi-color-primary-emphasis: #404a9a;
@@ -69,26 +69,26 @@
   --global-border-radius-large: 16px;
   --global-border-radius-xlarge: 32px;
   --global-border-radius-xxlarge: 64px;
-  --global-font-size-base: 1rem;
-  --global-font-size-scale: 1.2;
-  --global-font-size-4xsmall: 0.625rem;
-  --global-font-size-3xsmall: 0.688rem;
-  --global-font-size-2xsmall: 0.75rem;
-  --global-font-size-xsmall: 0.813rem;
-  --global-font-size-small: 0.875rem;
-  --global-font-size-default: 1rem;
-  --global-font-size-medium: 1.2rem;
-  --global-font-size-large: 1.44rem;
-  --global-font-size-xlarge: 1.728rem;
-  --global-font-size-2xlarge: 2.0736rem;
-  --global-font-size-3xlarge: 2.48832rem;
-  --global-font-size-4xlarge: 2.9859839999999997rem;
-  --global-font-size-5xlarge: 3.5831807999999996rem;
-  --global-font-size-6xlarge: 4.299816959999999rem;
-  --global-font-size-7xlarge: 5.159780351999999rem;
-  --global-font-size-8xlarge: 6.191736422399999rem;
-  --global-font-size-9xlarge: 7.430083706879999rem;
-  --global-font-size-10xlarge: 8.916100448255998rem;
+  --global-font-size-base: 16;
+  --global-font-size-scale: 1.125;
+  --global-font-size-4xsmall: 10;
+  --global-font-size-3xsmall: 11;
+  --global-font-size-2xsmall: 12;
+  --global-font-size-xsmall: 13;
+  --global-font-size-small: 14;
+  --global-font-size-default: 16;
+  --global-font-size-medium: 18;
+  --global-font-size-large: 20;
+  --global-font-size-xlarge: 23;
+  --global-font-size-2xlarge: 26;
+  --global-font-size-3xlarge: 29;
+  --global-font-size-4xlarge: 33;
+  --global-font-size-5xlarge: 37;
+  --global-font-size-6xlarge: 42;
+  --global-font-size-7xlarge: 47;
+  --global-font-size-8xlarge: 53;
+  --global-font-size-9xlarge: 60;
+  --global-font-size-10xlarge: 68;
   --global-font-family-montserrat: Montserrat, sans-serif;
   --global-font-family-tajawal: Tajawal, sans-serif;
   --global-font-family-inter: Inter, sans-serif;
