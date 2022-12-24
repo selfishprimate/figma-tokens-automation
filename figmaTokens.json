@@ -1113,7 +1113,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{global.color.harvestGold.400}",
+            "value": "{global.color.harvestGold.500}",
             "type": "color"
           },
           "on-primary": {
@@ -1121,29 +1121,29 @@
             "type": "color"
           },
           "emphasis": {
-            "value": "{global.color.harvestGold.500}",
+            "value": "{global.color.harvestGold.600}",
             "type": "color"
           },
           "muted": {
-            "value": "{global.color.harvestGold.300}",
+            "value": "{global.color.harvestGold.400}",
             "type": "color"
           },
           "subtle": {
-            "value": "{global.color.harvestGold.200}",
+            "value": "{global.color.harvestGold.300}",
             "type": "color"
           },
           "weak": {
-            "value": "{global.color.harvestGold.50}",
+            "value": "{global.color.harvestGold.100}",
             "type": "color"
           },
           "weaker": {
-            "value": "{global.color.harvestGold.20}",
+            "value": "{global.color.harvestGold.30}",
             "type": "color"
           }
         },
         "tertiary": {
           "default": {
-            "value": "{global.color.surf.400}",
+            "value": "{global.color.surf.500}",
             "type": "color"
           },
           "on-primary": {
@@ -1151,23 +1151,23 @@
             "type": "color"
           },
           "emphasis": {
-            "value": "{global.color.surf.500}",
+            "value": "{global.color.surf.600}",
             "type": "color"
           },
           "muted": {
-            "value": "{global.color.surf.300}",
+            "value": "{global.color.surf.400}",
             "type": "color"
           },
           "subtle": {
-            "value": "{global.color.surf.200}",
+            "value": "{global.color.surf.300}",
             "type": "color"
           },
           "weak": {
-            "value": "{global.color.surf.50}",
+            "value": "{global.color.surf.100}",
             "type": "color"
           },
           "weaker": {
-            "value": "{global.color.surf.20}",
+            "value": "{global.color.surf.50}",
             "type": "color"
           }
         },
