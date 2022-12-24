@@ -478,6 +478,60 @@
             "type": "color"
           }
         },
+        "blue": {
+          "10": {
+            "value": "#fbfcff",
+            "type": "color"
+          },
+          "20": {
+            "value": "#f4f7fe",
+            "type": "color"
+          },
+          "30": {
+            "value": "#e9effd",
+            "type": "color"
+          },
+          "50": {
+            "value": "#d3e0fb",
+            "type": "color"
+          },
+          "100": {
+            "value": "#a8c1f7",
+            "type": "color"
+          },
+          "200": {
+            "value": "#7ca1f3",
+            "type": "color"
+          },
+          "300": {
+            "value": "#467aee",
+            "type": "color"
+          },
+          "400": {
+            "value": "#2563eb",
+            "type": "color"
+          },
+          "500": {
+            "value": "#1e4fbc",
+            "type": "color"
+          },
+          "600": {
+            "value": "#163b8d",
+            "type": "color"
+          },
+          "700": {
+            "value": "#112d6a",
+            "type": "color"
+          },
+          "800": {
+            "value": "#0b1e47",
+            "type": "color"
+          },
+          "900": {
+            "value": "#07142f",
+            "type": "color"
+          }
+        },
         "orange": {
           "10": {
             "value": "#fffcfa",
@@ -759,60 +813,6 @@
           },
           "transparent": {
             "value": "#ffffff00",
-            "type": "color"
-          }
-        },
-        "blue": {
-          "10": {
-            "value": "#fbfcff",
-            "type": "color"
-          },
-          "20": {
-            "value": "#f4f7fe",
-            "type": "color"
-          },
-          "30": {
-            "value": "#e9effd",
-            "type": "color"
-          },
-          "50": {
-            "value": "#d3e0fb",
-            "type": "color"
-          },
-          "100": {
-            "value": "#a8c1f7",
-            "type": "color"
-          },
-          "200": {
-            "value": "#7ca1f3",
-            "type": "color"
-          },
-          "300": {
-            "value": "#467aee",
-            "type": "color"
-          },
-          "400": {
-            "value": "#2563eb",
-            "type": "color"
-          },
-          "500": {
-            "value": "#1e4fbc",
-            "type": "color"
-          },
-          "600": {
-            "value": "#163b8d",
-            "type": "color"
-          },
-          "700": {
-            "value": "#112d6a",
-            "type": "color"
-          },
-          "800": {
-            "value": "#0b1e47",
-            "type": "color"
-          },
-          "900": {
-            "value": "#07142f",
             "type": "color"
           }
         }
@@ -1138,6 +1138,66 @@
           },
           "weaker": {
             "value": "{global.color.harvestGold.20}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "default": {
+            "value": "{global.color.surf.400}",
+            "type": "color"
+          },
+          "on-primary": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{global.color.surf.500}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{global.color.surf.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{global.color.surf.200}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{global.color.surf.50}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{global.color.surf.20}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{global.color.green.400}",
+            "type": "color"
+          },
+          "on-primary": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{global.color.green.500}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{global.color.green.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{global.color.green.200}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{global.color.green.50}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{global.color.green.20}",
             "type": "color"
           }
         }
