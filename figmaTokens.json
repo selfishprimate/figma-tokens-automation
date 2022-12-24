@@ -1101,6 +1101,14 @@
           "subtle": {
             "value": "{global.color.indigo.200}",
             "type": "color"
+          },
+          "weak": {
+            "value": "{global.color.indigo.50}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{global.color.indigo.20}",
+            "type": "color"
           }
         }
       },
