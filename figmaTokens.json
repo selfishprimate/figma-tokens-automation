@@ -1110,6 +1110,36 @@
             "value": "{global.color.indigo.20}",
             "type": "color"
           }
+        },
+        "secondary": {
+          "default": {
+            "value": "{global.color.harvestGold.400}",
+            "type": "color"
+          },
+          "on-primary": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{global.color.harvestGold.500}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{global.color.harvestGold.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{global.color.harvestGold.200}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{global.color.harvestGold.50}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{global.color.harvestGold.20}",
+            "type": "color"
+          }
         }
       },
       "fontFamily": {
