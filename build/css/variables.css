@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 24 Dec 2022 21:34:40 GMT
+ * Generated on Sat, 24 Dec 2022 21:38:32 GMT
  */
 
 :root {
@@ -86,20 +86,20 @@
   --joi-color-primary-subtle: #969dd9;
   --joi-color-primary-weak: #dcdef2;
   --joi-color-primary-weaker: #f6f7fc;
-  --joi-color-secondary-default: #d9ba7d;
+  --joi-color-secondary-default: #ae9564;
   --joi-color-secondary-on-primary: #ffffff;
-  --joi-color-secondary-emphasis: #ae9564;
-  --joi-color-secondary-muted: #dfc490;
-  --joi-color-secondary-subtle: #e8d6b1;
-  --joi-color-secondary-weak: #f7f1e5;
-  --joi-color-secondary-weaker: #fdfcf8;
-  --joi-color-tertiary-default: #b9d8c7;
+  --joi-color-secondary-emphasis: #82704b;
+  --joi-color-secondary-muted: #d9ba7d;
+  --joi-color-secondary-subtle: #dfc490;
+  --joi-color-secondary-weak: #f0e3cb;
+  --joi-color-secondary-weaker: #fbf8f2;
+  --joi-color-tertiary-default: #87b295;
   --joi-color-tertiary-on-primary: #ffffff;
-  --joi-color-tertiary-emphasis: #87b295;
-  --joi-color-tertiary-muted: #c4decf;
-  --joi-color-tertiary-subtle: #d5e8dd;
-  --joi-color-tertiary-weak: #f1f7f4;
-  --joi-color-tertiary-weaker: #fafcfb;
+  --joi-color-tertiary-emphasis: #6c9f7d;
+  --joi-color-tertiary-muted: #b9d8c7;
+  --joi-color-tertiary-subtle: #c4decf;
+  --joi-color-tertiary-weak: #e3efe9;
+  --joi-color-tertiary-weaker: #f1f7f4;
   --joi-color-success-default: #16a34a;
   --joi-color-success-on-primary: #ffffff;
   --joi-color-success-emphasis: #12823b;
