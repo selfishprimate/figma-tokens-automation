@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 24 Dec 2022 21:22:34 GMT
+ * Generated on Sat, 24 Dec 2022 21:34:40 GMT
  */
 
 :root {
@@ -93,6 +93,20 @@
   --joi-color-secondary-subtle: #e8d6b1;
   --joi-color-secondary-weak: #f7f1e5;
   --joi-color-secondary-weaker: #fdfcf8;
+  --joi-color-tertiary-default: #b9d8c7;
+  --joi-color-tertiary-on-primary: #ffffff;
+  --joi-color-tertiary-emphasis: #87b295;
+  --joi-color-tertiary-muted: #c4decf;
+  --joi-color-tertiary-subtle: #d5e8dd;
+  --joi-color-tertiary-weak: #f1f7f4;
+  --joi-color-tertiary-weaker: #fafcfb;
+  --joi-color-success-default: #16a34a;
+  --joi-color-success-on-primary: #ffffff;
+  --joi-color-success-emphasis: #12823b;
+  --joi-color-success-muted: #39b165;
+  --joi-color-success-subtle: #73c892;
+  --joi-color-success-weak: #d0eddb;
+  --joi-color-success-weaker: #f3faf6;
   --joi-font-family-brand-ltr: Montserrat, sans-serif;
   --joi-font-family-brand-rtl: Tajawal, sans-serif;
   --global-font-weight-thin: 200;
@@ -208,6 +222,19 @@
   --global-color-green-700: #0a4921;
   --global-color-green-800: #073116;
   --global-color-green-900: #04210f;
+  --global-color-blue-10: #fbfcff;
+  --global-color-blue-20: #f4f7fe;
+  --global-color-blue-30: #e9effd;
+  --global-color-blue-50: #d3e0fb;
+  --global-color-blue-100: #a8c1f7;
+  --global-color-blue-200: #7ca1f3;
+  --global-color-blue-300: #467aee;
+  --global-color-blue-400: #2563eb;
+  --global-color-blue-500: #1e4fbc;
+  --global-color-blue-600: #163b8d;
+  --global-color-blue-700: #112d6a;
+  --global-color-blue-800: #0b1e47;
+  --global-color-blue-900: #07142f;
   --global-color-orange-10: #fffcfa;
   --global-color-orange-20: #fff7f2;
   --global-color-orange-30: #fff0e5;
@@ -276,17 +303,4 @@
   --global-color-primitives-black: #000000;
   --global-color-primitives-white: #ffffff;
   --global-color-primitives-transparent: #ffffff00;
-  --global-color-blue-10: #fbfcff;
-  --global-color-blue-20: #f4f7fe;
-  --global-color-blue-30: #e9effd;
-  --global-color-blue-50: #d3e0fb;
-  --global-color-blue-100: #a8c1f7;
-  --global-color-blue-200: #7ca1f3;
-  --global-color-blue-300: #467aee;
-  --global-color-blue-400: #2563eb;
-  --global-color-blue-500: #1e4fbc;
-  --global-color-blue-600: #163b8d;
-  --global-color-blue-700: #112d6a;
-  --global-color-blue-800: #0b1e47;
-  --global-color-blue-900: #07142f;
 }
