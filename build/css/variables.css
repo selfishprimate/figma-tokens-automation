@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 25 Dec 2022 17:21:07 GMT
+ * Generated on Sun, 25 Dec 2022 17:34:57 GMT
  */
 
 :root {
@@ -39,13 +39,13 @@
   --joi-color-success-subtle: #73c892;
   --joi-color-success-weak: #d0eddb;
   --joi-color-success-weaker: #f3faf6;
-  --joi-color-info-default: #2563eb;
+  --joi-color-info-default: #3771e0;
   --joi-color-info-on-primary: #ffffff;
-  --joi-color-info-emphasis: #1e4fbc;
-  --joi-color-info-muted: #467aee;
-  --joi-color-info-subtle: #7ca1f3;
-  --joi-color-info-weak: #d3e0fb;
-  --joi-color-info-weaker: #f4f7fe;
+  --joi-color-info-emphasis: #2c5ab3;
+  --joi-color-info-muted: #5586e5;
+  --joi-color-info-subtle: #87aaec;
+  --joi-color-info-weak: #d7e3f9;
+  --joi-color-info-weaker: #f5f8fd;
   --joi-color-warning-default: #ff6700;
   --joi-color-warning-on-primary: #ffffff;
   --joi-color-warning-emphasis: #cc5200;
@@ -250,19 +250,19 @@
   --global-color-green-700: #0a4921;
   --global-color-green-800: #073116;
   --global-color-green-900: #04210f;
-  --global-color-blue-10: #fbfcff;
-  --global-color-blue-20: #f4f7fe;
-  --global-color-blue-30: #e9effd;
-  --global-color-blue-50: #d3e0fb;
-  --global-color-blue-100: #a8c1f7;
-  --global-color-blue-200: #7ca1f3;
-  --global-color-blue-300: #467aee;
-  --global-color-blue-400: #2563eb;
-  --global-color-blue-500: #1e4fbc;
-  --global-color-blue-600: #163b8d;
-  --global-color-blue-700: #112d6a;
-  --global-color-blue-800: #0b1e47;
-  --global-color-blue-900: #07142f;
+  --global-color-blue-10: #fbfcfe;
+  --global-color-blue-20: #f5f8fd;
+  --global-color-blue-30: #ebf1fc;
+  --global-color-blue-50: #d7e3f9;
+  --global-color-blue-100: #afc6f3;
+  --global-color-blue-200: #87aaec;
+  --global-color-blue-300: #5586e5;
+  --global-color-blue-400: #3771e0;
+  --global-color-blue-500: #2c5ab3;
+  --global-color-blue-600: #214486;
+  --global-color-blue-700: #193365;
+  --global-color-blue-800: #112243;
+  --global-color-blue-900: #0b172d;
   --global-color-orange-10: #fffcfa;
   --global-color-orange-20: #fff7f2;
   --global-color-orange-30: #fff0e5;
