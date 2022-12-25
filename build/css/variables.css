@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 25 Dec 2022 17:14:27 GMT
+ * Generated on Sun, 25 Dec 2022 17:17:25 GMT
  */
 
 :root {
@@ -11,6 +11,13 @@
   --joi-color-primary-subtle: #969dd9;
   --joi-color-primary-weak: #dcdef2;
   --joi-color-primary-weaker: #f6f7fc;
+  --joi-color-accent-default: #000000;
+  --joi-color-accent-on-accent: #ffffff;
+  --joi-color-accent-emphasis: #3b3b3b;
+  --joi-color-accent-muted: #626262;
+  --joi-color-accent-subtle: #767676;
+  --joi-color-accent-disabled: #b1b1b1;
+  --joi-color-accent-on-disabled: #ffffff;
   --joi-color-secondary-default: #ae9564;
   --joi-color-secondary-on-primary: #ffffff;
   --joi-color-secondary-emphasis: #82704b;
@@ -53,13 +60,6 @@
   --joi-color-danger-subtle: #ea7d7d;
   --joi-color-danger-weak: #f8d4d4;
   --joi-color-danger-weaker: #fdf4f4;
-  --joi-color-accent-default: #000000;
-  --joi-color-accent-on-accent: #ffffff;
-  --joi-color-accent-emphasis: #3b3b3b;
-  --joi-color-accent-muted: #626262;
-  --joi-color-accent-subtle: #767676;
-  --joi-color-accent-disabled: #b1b1b1;
-  --joi-color-accent-on-disabled: #ffffff;
   --joi-opacity-10: 0.04;
   --joi-opacity-20: 0.08;
   --joi-opacity-30: 0.12;
