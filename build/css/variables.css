@@ -1,16 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Sun, 25 Dec 2022 17:17:25 GMT
+ * Generated on Sun, 25 Dec 2022 17:21:07 GMT
  */
 
 :root {
-  --joi-color-primary-default: #505cc0;
-  --joi-color-primary-on-primary: #ffffff;
-  --joi-color-primary-emphasis: #404a9a;
-  --joi-color-primary-muted: #6a74c9;
-  --joi-color-primary-subtle: #969dd9;
-  --joi-color-primary-weak: #dcdef2;
-  --joi-color-primary-weaker: #f6f7fc;
   --joi-color-accent-default: #000000;
   --joi-color-accent-on-accent: #ffffff;
   --joi-color-accent-emphasis: #3b3b3b;
@@ -18,6 +11,13 @@
   --joi-color-accent-subtle: #767676;
   --joi-color-accent-disabled: #b1b1b1;
   --joi-color-accent-on-disabled: #ffffff;
+  --joi-color-primary-default: #505cc0;
+  --joi-color-primary-on-primary: #ffffff;
+  --joi-color-primary-emphasis: #404a9a;
+  --joi-color-primary-muted: #6a74c9;
+  --joi-color-primary-subtle: #969dd9;
+  --joi-color-primary-weak: #dcdef2;
+  --joi-color-primary-weaker: #f6f7fc;
   --joi-color-secondary-default: #ae9564;
   --joi-color-secondary-on-primary: #ffffff;
   --joi-color-secondary-emphasis: #82704b;
