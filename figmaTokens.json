@@ -852,6 +852,36 @@
             "type": "color"
           }
         },
+        "accent": {
+          "default": {
+            "value": "{global.color.black.900}",
+            "type": "color"
+          },
+          "on-accent": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{global.color.black.600}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{global.color.black.400}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{global.color.black.300}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{global.color.black.50}",
+            "type": "color"
+          },
+          "on-disabled": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          }
+        },
         "secondary": {
           "default": {
             "value": "{global.color.harvestGold.500}",
@@ -1029,36 +1059,6 @@
           },
           "weaker": {
             "value": "{global.color.red.20}",
-            "type": "color"
-          }
-        },
-        "accent": {
-          "default": {
-            "value": "{global.color.black.900}",
-            "type": "color"
-          },
-          "on-accent": {
-            "value": "{global.color.primitives.white}",
-            "type": "color"
-          },
-          "emphasis": {
-            "value": "{global.color.black.600}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{global.color.black.400}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{global.color.black.300}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{global.color.black.50}",
-            "type": "color"
-          },
-          "on-disabled": {
-            "value": "{global.color.primitives.white}",
             "type": "color"
           }
         }
