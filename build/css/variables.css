@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 26 Dec 2022 18:39:54 GMT
+ * Generated on Mon, 26 Dec 2022 18:58:19 GMT
  */
 
 :root {
@@ -25,13 +25,6 @@
   --joi-color-secondary-subtle: #dfc490;
   --joi-color-secondary-weak: #f0e3cb;
   --joi-color-secondary-weaker: #fbf8f2;
-  --joi-color-tertiary-default: #87b295;
-  --joi-color-tertiary-on-primary: #ffffff;
-  --joi-color-tertiary-emphasis: #6c9f7d;
-  --joi-color-tertiary-muted: #b9d8c7;
-  --joi-color-tertiary-subtle: #c4decf;
-  --joi-color-tertiary-weak: #e3efe9;
-  --joi-color-tertiary-weaker: #f1f7f4;
   --joi-color-success-default: #1cb063;
   --joi-color-success-on-primary: #ffffff;
   --joi-color-success-emphasis: #168d4f;
@@ -137,6 +130,10 @@
   --joi-typescale-heading-06-font-size: 20;
   --joi-font-family-brand-ltr: Montserrat, sans-serif;
   --joi-font-family-brand-rtl: Tajawal, sans-serif;
+  --joi-font-weight-normal: 400;
+  --joi-font-weight-medium: 500;
+  --joi-font-weight-semi-bold: 600;
+  --joi-font-weight-bold: 700;
   --global-font-weight-thin: 200;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
