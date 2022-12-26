@@ -201,6 +201,10 @@
           "value": "150%",
           "type": "lineHeights"
         },
+        "xxlarge": {
+          "value": "175%",
+          "type": "lineHeights"
+        },
         "normal": {
           "value": "normal",
           "type": "lineHeights",
