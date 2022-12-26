@@ -1379,6 +1379,24 @@
           "value": "{global.fontWeight.bold}",
           "type": "fontWeights"
         }
+      },
+      "lineHeight": {
+        "normal": {
+          "value": "{global.lineHeight.normal}",
+          "type": "lineHeights"
+        },
+        "default": {
+          "value": "{global.lineHeight.default}",
+          "type": "lineHeights"
+        },
+        "medium": {
+          "value": "{global.lineHeight.medium}",
+          "type": "lineHeights"
+        },
+        "large": {
+          "value": "{global.lineHeight.large}",
+          "type": "lineHeights"
+        }
       }
     }
   },
