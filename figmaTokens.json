@@ -970,36 +970,6 @@
             "type": "color"
           }
         },
-        "tertiary": {
-          "default": {
-            "value": "{global.color.surf.500}",
-            "type": "color"
-          },
-          "on-primary": {
-            "value": "{global.color.primitives.white}",
-            "type": "color"
-          },
-          "emphasis": {
-            "value": "{global.color.surf.600}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{global.color.surf.400}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{global.color.surf.300}",
-            "type": "color"
-          },
-          "weak": {
-            "value": "{global.color.surf.100}",
-            "type": "color"
-          },
-          "weaker": {
-            "value": "{global.color.surf.50}",
-            "type": "color"
-          }
-        },
         "success": {
           "default": {
             "value": "{global.color.green.400}",
@@ -1390,6 +1360,24 @@
             "value": "{global.fontFamily.tajawal}",
             "type": "fontFamilies"
           }
+        }
+      },
+      "fontWeight": {
+        "normal": {
+          "value": "{global.fontWeight.normal}",
+          "type": "fontWeights"
+        },
+        "medium": {
+          "value": "{global.fontWeight.medium}",
+          "type": "fontWeights"
+        },
+        "semiBold": {
+          "value": "{global.fontWeight.semiBold}",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "{global.fontWeight.bold}",
+          "type": "fontWeights"
         }
       }
     }
