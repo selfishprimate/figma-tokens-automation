@@ -945,7 +945,7 @@
             "value": "{global.color.harvestGold.500}",
             "type": "color"
           },
-          "on-primary": {
+          "on-secondary": {
             "value": "{global.color.primitives.white}",
             "type": "color"
           },
@@ -975,7 +975,7 @@
             "value": "{global.color.green.400}",
             "type": "color"
           },
-          "on-primary": {
+          "on-success": {
             "value": "{global.color.primitives.white}",
             "type": "color"
           },
@@ -1005,7 +1005,7 @@
             "value": "{global.color.blue.400}",
             "type": "color"
           },
-          "on-primary": {
+          "on-info": {
             "value": "{global.color.primitives.white}",
             "type": "color"
           },
@@ -1035,7 +1035,7 @@
             "value": "{global.color.orange.400}",
             "type": "color"
           },
-          "on-primary": {
+          "on-warning": {
             "value": "{global.color.primitives.white}",
             "type": "color"
           },
@@ -1065,7 +1065,7 @@
             "value": "{global.color.red.400}",
             "type": "color"
           },
-          "on-primary": {
+          "on-danger": {
             "value": "{global.color.primitives.white}",
             "type": "color"
           },
