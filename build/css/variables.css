@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Dec 2022 19:23:07 GMT
+ * Generated on Tue, 27 Dec 2022 20:09:33 GMT
  */
 
 :root {
@@ -67,6 +67,13 @@
   --semantic-color-icon-on-warning: #ffffff;
   --semantic-color-icon-danger: #e03838;
   --semantic-color-icon-on-danger: #ffffff;
+  --semantic-color-text-accent: #000000;
+  --semantic-color-text-primary: #000000;
+  --semantic-color-text-secondary: #ae9564;
+  --semantic-color-text-success: #1cb063;
+  --semantic-color-text-info: #3771e0;
+  --semantic-color-text-warning: #e0a738;
+  --semantic-color-text-danger: #e03838;
   --semantic-opacity-10: 0.04;
   --semantic-opacity-20: 0.08;
   --semantic-opacity-30: 0.12;
