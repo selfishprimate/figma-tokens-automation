@@ -8,7 +8,7 @@
     "properties"
   ],
   "scripts": {
-    "build": "token-transformer figmaTokens.json tokens/tokens.json global,joi --expandTypography=true && style-dictionary build --config ./config.js",
+    "build": "token-transformer figmaTokens.json tokens/tokens.json global,semantic --expandTypography=true && style-dictionary build --config ./config.js",
     "clean": "rm -rf build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
