@@ -882,10 +882,40 @@
       "color": {
         "accent": {
           "default": {
-            "value": "{global.color.black.900}",
+            "value": "{semantic.color.primary.default}",
             "type": "color"
           },
           "on-accent": {
+            "value": "{semantic.color.primary.on-primary}",
+            "type": "color"
+          },
+          "emphasis": {
+            "value": "{semantic.color.primary.emphasis}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{semantic.color.primary.muted}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{semantic.color.primary.subtle}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.color.primary.weak}",
+            "type": "color"
+          },
+          "on-disabled": {
+            "value": "{global.color.primitives.white}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "default": {
+            "value": "{global.color.black.900}",
+            "type": "color"
+          },
+          "on-primary": {
             "value": "{global.color.primitives.white}",
             "type": "color"
           },
@@ -901,42 +931,12 @@
             "value": "{global.color.black.300}",
             "type": "color"
           },
-          "disabled": {
+          "weak": {
             "value": "{global.color.black.50}",
             "type": "color"
           },
-          "on-disabled": {
-            "value": "{global.color.primitives.white}",
-            "type": "color"
-          }
-        },
-        "primary": {
-          "default": {
-            "value": "{global.color.indigo.400}",
-            "type": "color"
-          },
-          "on-primary": {
-            "value": "{global.color.primitives.white}",
-            "type": "color"
-          },
-          "emphasis": {
-            "value": "{global.color.indigo.500}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{global.color.indigo.300}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{global.color.indigo.200}",
-            "type": "color"
-          },
-          "weak": {
-            "value": "{global.color.indigo.50}",
-            "type": "color"
-          },
           "weaker": {
-            "value": "{global.color.indigo.20}",
+            "value": "{global.color.black.30}",
             "type": "color"
           }
         },
