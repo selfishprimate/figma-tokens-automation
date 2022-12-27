@@ -877,8 +877,8 @@
       }
     }
   },
-  "joi": {
-    "joi": {
+  "semantic": {
+    "semantic": {
       "color": {
         "accent": {
           "default": {
@@ -1267,7 +1267,7 @@
         "display": {
           "large": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.medium}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.9xlarge}"
@@ -1276,7 +1276,7 @@
           },
           "medium": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.normal}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.8xlarge}"
@@ -1285,7 +1285,7 @@
           },
           "small": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.normal}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.7xlarge}"
@@ -1296,7 +1296,7 @@
         "heading": {
           "01": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.bold}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.5xlarge}"
@@ -1305,7 +1305,7 @@
           },
           "02": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.bold}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.4xlarge}"
@@ -1314,7 +1314,7 @@
           },
           "03": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.bold}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.3xlarge}"
@@ -1323,7 +1323,7 @@
           },
           "04": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.semiBold}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.2xlarge}"
@@ -1332,7 +1332,7 @@
           },
           "05": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.semiBold}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.xlarge}"
@@ -1341,7 +1341,7 @@
           },
           "06": {
             "value": {
-              "fontFamily": "{joi.fontFamily.brand.ltr}",
+              "fontFamily": "{semantic.fontFamily.brand.ltr}",
               "fontWeight": "{global.fontWeight.semiBold}",
               "lineHeight": "{global.lineHeight.large}",
               "fontSize": "{global.fontSize.large}"
@@ -1404,7 +1404,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "joi"
+      "semantic"
     ]
   }
 }
