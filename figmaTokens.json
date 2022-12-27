@@ -1103,24 +1103,48 @@
             "value": "{semantic.color.primary.default}",
             "type": "color"
           },
+          "on-primary": {
+            "value": "{semantic.color.primary.on-primary}",
+            "type": "color"
+          },
           "secondary": {
             "value": "{semantic.color.secondary.default}",
+            "type": "color"
+          },
+          "on-secondary": {
+            "value": "{semantic.color.secondary.on-secondary}",
             "type": "color"
           },
           "success": {
             "value": "{semantic.color.success.default}",
             "type": "color"
           },
+          "on-success": {
+            "value": "{semantic.color.success.on-success}",
+            "type": "color"
+          },
           "info": {
             "value": "{semantic.color.info.default}",
+            "type": "color"
+          },
+          "on-info": {
+            "value": "{semantic.color.info.on-info}",
             "type": "color"
           },
           "warning": {
             "value": "{semantic.color.warning.default}",
             "type": "color"
           },
+          "on-warning": {
+            "value": "{semantic.color.warning.on-warning}",
+            "type": "color"
+          },
           "danger": {
             "value": "{semantic.color.danger.default}",
+            "type": "color"
+          },
+          "on-danger": {
+            "value": "{semantic.color.danger.on-danger}",
             "type": "color"
           }
         }
