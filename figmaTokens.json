@@ -1147,6 +1147,36 @@
             "value": "{semantic.color.danger.on-danger}",
             "type": "color"
           }
+        },
+        "text": {
+          "accent": {
+            "value": "{semantic.color.accent.default}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{semantic.color.primary.default}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.color.secondary.default}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{semantic.color.success.default}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{semantic.color.info.default}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{semantic.color.warning.default}",
+            "type": "color"
+          },
+          "danger": {
+            "value": "{semantic.color.danger.default}",
+            "type": "color"
+          }
         }
       },
       "opacity": {
