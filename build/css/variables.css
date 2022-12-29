@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 29 Dec 2022 20:32:18 GMT
+ * Generated on Thu, 29 Dec 2022 20:42:16 GMT
  */
 
 :root {
@@ -75,11 +75,11 @@
   --semantic-color-text-warning: #e0a738;
   --semantic-color-text-danger: #e03838;
   --semantic-color-surface-0: #ffffff;
-  --semantic-color-surface-100: #f6f6f6;
-  --semantic-color-surface-200: #f2f2f2;
-  --semantic-color-surface-300: #ebebeb;
-  --semantic-color-surface-400: #e3e3e3;
-  --semantic-color-surface-500: #dbdbdb;
+  --semantic-color-surface-100: #fcfcfc;
+  --semantic-color-surface-200: #fafafa;
+  --semantic-color-surface-300: #f5f5f5;
+  --semantic-color-surface-400: #f0f0f0;
+  --semantic-color-surface-500: #ebebeb;
   --semantic-opacity-10: 0.04;
   --semantic-opacity-20: 0.08;
   --semantic-opacity-30: 0.12;
@@ -344,18 +344,18 @@
   --global-color-black-700: #272727;
   --global-color-black-800: #141414;
   --global-color-black-900: #000000;
-  --global-color-white-10: #a6a6a6;
-  --global-color-white-20: #adadad;
-  --global-color-white-30: #b5b5b5;
-  --global-color-white-50: #bdbdbd;
-  --global-color-white-100: #c4c4c4;
-  --global-color-white-200: #cccccc;
-  --global-color-white-300: #d4d4d4;
-  --global-color-white-400: #dbdbdb;
-  --global-color-white-500: #e3e3e3;
-  --global-color-white-600: #ebebeb;
-  --global-color-white-700: #f2f2f2;
-  --global-color-white-800: #f6f6f6;
+  --global-color-white-10: #c7c7c7;
+  --global-color-white-20: #cccccc;
+  --global-color-white-30: #d1d1d1;
+  --global-color-white-50: #d6d6d6;
+  --global-color-white-100: #dbdbdb;
+  --global-color-white-200: #e0e0e0;
+  --global-color-white-300: #e6e6e6;
+  --global-color-white-400: #ebebeb;
+  --global-color-white-500: #f0f0f0;
+  --global-color-white-600: #f5f5f5;
+  --global-color-white-700: #fafafa;
+  --global-color-white-800: #fcfcfc;
   --global-color-white-900: #ffffff;
   --global-color-primitives-black: #000000;
   --global-color-primitives-white: #ffffff;
