@@ -1179,7 +1179,7 @@
           }
         },
         "surface": {
-          "default": {
+          "0": {
             "value": "{global.color.white.900}",
             "type": "color"
           },
