@@ -1177,6 +1177,32 @@
             "value": "{semantic.color.danger.default}",
             "type": "color"
           }
+        },
+        "surface": {
+          "100": {
+            "value": "{global.color.white.800}",
+            "type": "color"
+          },
+          "200": {
+            "value": "{global.color.white.700}",
+            "type": "color"
+          },
+          "300": {
+            "value": "{global.color.white.600}",
+            "type": "color"
+          },
+          "400": {
+            "value": "{global.color.white.500}",
+            "type": "color"
+          },
+          "500": {
+            "value": "{global.color.white.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{global.color.white.900}",
+            "type": "color"
+          }
         }
       },
       "opacity": {
