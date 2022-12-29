@@ -1179,6 +1179,10 @@
           }
         },
         "surface": {
+          "default": {
+            "value": "{global.color.white.900}",
+            "type": "color"
+          },
           "100": {
             "value": "{global.color.white.800}",
             "type": "color"
@@ -1197,10 +1201,6 @@
           },
           "500": {
             "value": "{global.color.white.400}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{global.color.white.900}",
             "type": "color"
           }
         }
