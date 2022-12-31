@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 31 Dec 2022 12:14:46 GMT
+ * Generated on Sat, 31 Dec 2022 19:39:11 GMT
  */
 
 :root {
@@ -67,6 +67,9 @@
   --semantic-color-icon-on-warning: #ffffff;
   --semantic-color-icon-danger: #e03838;
   --semantic-color-icon-on-danger: #ffffff;
+  --semantic-color-text-default: #000000;
+  --semantic-color-text-muted: #626262;
+  --semantic-color-text-subtle: #9d9d9d;
   --semantic-color-text-accent: #000000;
   --semantic-color-text-primary: #000000;
   --semantic-color-text-secondary: #ae9564;
@@ -74,6 +77,7 @@
   --semantic-color-text-info: #3771e0;
   --semantic-color-text-warning: #e0a738;
   --semantic-color-text-danger: #e03838;
+  --semantic-color-text-link: #3771e0;
   --semantic-color-background-0: #ffffff;
   --semantic-color-background-100: #fcfcfc;
   --semantic-color-background-200: #fafafa;
@@ -88,6 +92,10 @@
   --semantic-color-foreground-weeaker: #c4c4c4;
   --semantic-color-foreground-disabled: #c4c4c4;
   --semantic-color-foreground-on-disabled: #ffffff;
+  --semantic-color-link-default: #3771e0;
+  --semantic-color-link-hover: #2c5ab3;
+  --semantic-color-link-focus: #214486;
+  --semantic-color-link-active: #193365;
   --semantic-opacity-10: 0.04;
   --semantic-opacity-20: 0.08;
   --semantic-opacity-30: 0.12;
