@@ -1149,6 +1149,18 @@
           }
         },
         "text": {
+          "default": {
+            "value": "{semantic.color.foreground.default}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{semantic.color.foreground.muted}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{semantic.color.foreground.subtle}",
+            "type": "color"
+          },
           "accent": {
             "value": "{semantic.color.accent.default}",
             "type": "color"
@@ -1175,6 +1187,10 @@
           },
           "danger": {
             "value": "{semantic.color.danger.default}",
+            "type": "color"
+          },
+          "link": {
+            "value": "{semantic.color.link.default}",
             "type": "color"
           }
         },
@@ -1235,6 +1251,24 @@
           },
           "on-disabled": {
             "value": "{global.color.primitives.white}",
+            "type": "color"
+          }
+        },
+        "link": {
+          "default": {
+            "value": "{global.color.blue.400}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{global.color.blue.500}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{global.color.blue.600}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{global.color.blue.700}",
             "type": "color"
           }
         }
