@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 31 Dec 2022 23:25:54 GMT
+ * Generated on Sun, 01 Jan 2023 10:24:03 GMT
  */
 
 :root {
@@ -275,19 +275,6 @@
   --global-color-surf-700: #577f63;
   --global-color-surf-800: #41604b;
   --global-color-surf-900: #2b3f32;
-  --global-color-red-10: #fefbfb;
-  --global-color-red-20: #fdf5f5;
-  --global-color-red-30: #fcebeb;
-  --global-color-red-50: #f9d7d7;
-  --global-color-red-100: #f3afaf;
-  --global-color-red-200: #ec8888;
-  --global-color-red-300: #e55656;
-  --global-color-red-400: #e03838;
-  --global-color-red-500: #b32d2d;
-  --global-color-red-600: #862222;
-  --global-color-red-700: #651919;
-  --global-color-red-800: #431111;
-  --global-color-red-900: #2d0b0b;
   --global-color-green-10: #fafdfc;
   --global-color-green-20: #f4fbf7;
   --global-color-green-30: #e8f7ef;
@@ -327,6 +314,32 @@
   --global-color-orange-700: #794f21;
   --global-color-orange-800: #482f14;
   --global-color-orange-900: #30200d;
+  --global-color-yellow-10: #fffcf6;
+  --global-color-yellow-20: #fefaf0;
+  --global-color-yellow-30: #fef6e3;
+  --global-color-yellow-50: #fdf1d0;
+  --global-color-yellow-100: #fbe8b4;
+  --global-color-yellow-200: #fadd8f;
+  --global-color-yellow-300: #f7cf60;
+  --global-color-yellow-400: #f6c644;
+  --global-color-yellow-500: #d1a83a;
+  --global-color-yellow-600: #a0812c;
+  --global-color-yellow-700: #7b6322;
+  --global-color-yellow-800: #4a3b14;
+  --global-color-yellow-900: #31280e;
+  --global-color-red-10: #fefbfb;
+  --global-color-red-20: #fdf5f5;
+  --global-color-red-30: #fcebeb;
+  --global-color-red-50: #f9d7d7;
+  --global-color-red-100: #f3afaf;
+  --global-color-red-200: #ec8888;
+  --global-color-red-300: #e55656;
+  --global-color-red-400: #e03838;
+  --global-color-red-500: #b32d2d;
+  --global-color-red-600: #862222;
+  --global-color-red-700: #651919;
+  --global-color-red-800: #431111;
+  --global-color-red-900: #2d0b0b;
   --global-color-neutral-10: #fbfbfb;
   --global-color-neutral-20: #f4f4f4;
   --global-color-neutral-30: #eff0f0;
@@ -382,19 +395,6 @@
   --global-color-primitives-black: #000000;
   --global-color-primitives-white: #ffffff;
   --global-color-primitives-transparent: #ffffff00;
-  --global-color-yellow-10: #fffcf6;
-  --global-color-yellow-20: #fefaf0;
-  --global-color-yellow-30: #fef6e3;
-  --global-color-yellow-50: #fdf1d0;
-  --global-color-yellow-100: #fbe8b4;
-  --global-color-yellow-200: #fadd8f;
-  --global-color-yellow-300: #f7cf60;
-  --global-color-yellow-400: #f6c644;
-  --global-color-yellow-500: #d1a83a;
-  --global-color-yellow-600: #a0812c;
-  --global-color-yellow-700: #7b6322;
-  --global-color-yellow-800: #4a3b14;
-  --global-color-yellow-900: #31280e;
   --global-sizing-breakpoints-bootstrap-zero: 0;
   --global-sizing-breakpoints-bootstrap-small: 576px;
   --global-sizing-breakpoints-bootstrap-medium: 768px;
