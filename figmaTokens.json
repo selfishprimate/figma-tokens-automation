@@ -957,12 +957,12 @@
             "value": "{semantic.color.primary.subtle}",
             "type": "color"
           },
-          "disabled": {
+          "weak": {
             "value": "{semantic.color.primary.weak}",
             "type": "color"
           },
-          "on-disabled": {
-            "value": "{global.color.primitives.white}",
+          "weaker": {
+            "value": "{semantic.color.primary.weaker}",
             "type": "color"
           }
         },
