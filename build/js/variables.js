@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 01 Jan 2023 10:24:03 GMT
+ * Generated on Sun, 01 Jan 2023 18:06:30 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -87,14 +87,18 @@ export const SemanticColorForegroundDefault = "#000000";
 export const SemanticColorForegroundOnForeground = "#ffffff";
 export const SemanticColorForegroundMuted = "#626262";
 export const SemanticColorForegroundSubtle = "#9d9d9d";
-export const SemanticColorForegroundWeak = "#b1b1b1";
-export const SemanticColorForegroundWeeaker = "#c4c4c4";
-export const SemanticColorForegroundDisabled = "#c4c4c4";
-export const SemanticColorForegroundOnDisabled = "#ffffff";
+export const SemanticColorForegroundWeak = "#c4c4c4";
+export const SemanticColorForegroundWeeaker = "#ebebeb";
+export const SemanticColorForegroundDisabled = "#ebebeb";
+export const SemanticColorForegroundOnDisabled = "#c4c4c4";
 export const SemanticColorLinkDefault = "#3771e0";
 export const SemanticColorLinkHover = "#2c5ab3";
 export const SemanticColorLinkFocus = "#214486";
 export const SemanticColorLinkActive = "#193365";
+export const SemanticColorBorderAccent = "#000000";
+export const SemanticColorBorderFocus = "#9d9d9d";
+export const SemanticColorBorderDefault = "#c4c4c4";
+export const SemanticColorBorderSubtle = "#ebebeb";
 export const SemanticOpacity10 = 0.04;
 export const SemanticOpacity20 = 0.08;
 export const SemanticOpacity30 = 0.12;
