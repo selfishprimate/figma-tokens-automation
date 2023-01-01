@@ -1294,19 +1294,19 @@
             "type": "color"
           },
           "weak": {
-            "value": "{global.color.black.50}",
+            "value": "{global.color.black.30}",
             "type": "color"
           },
           "weeaker": {
-            "value": "{global.color.black.30}",
+            "value": "{global.color.black.10}",
             "type": "color"
           },
           "disabled": {
-            "value": "{global.color.black.30}",
+            "value": "{global.color.black.10}",
             "type": "color"
           },
           "on-disabled": {
-            "value": "{global.color.primitives.white}",
+            "value": "{global.color.black.30}",
             "type": "color"
           }
         },
@@ -1325,6 +1325,24 @@
           },
           "active": {
             "value": "{global.color.blue.700}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "accent": {
+            "value": "{semantic.color.accent.default}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{semantic.color.foreground.subtle}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.color.foreground.weak}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{semantic.color.foreground.weeaker}",
             "type": "color"
           }
         }
