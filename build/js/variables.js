@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 01 Jan 2023 18:06:30 GMT
+ * Generated on Sun, 01 Jan 2023 18:14:59 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -8,8 +8,8 @@ export const SemanticColorAccentOnAccent = "#ffffff";
 export const SemanticColorAccentEmphasis = "#3b3b3b";
 export const SemanticColorAccentMuted = "#626262";
 export const SemanticColorAccentSubtle = "#767676";
-export const SemanticColorAccentDisabled = "#b1b1b1";
-export const SemanticColorAccentOnDisabled = "#ffffff";
+export const SemanticColorAccentWeak = "#b1b1b1";
+export const SemanticColorAccentWeaker = "#c4c4c4";
 export const SemanticColorPrimaryDefault = "#000000";
 export const SemanticColorPrimaryOnPrimary = "#ffffff";
 export const SemanticColorPrimaryEmphasis = "#3b3b3b";
