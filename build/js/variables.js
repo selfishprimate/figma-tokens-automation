@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 02 Jan 2023 12:16:37 GMT
+ * Generated on Thu, 05 Jan 2023 16:34:31 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -45,6 +45,13 @@ export const SemanticColorWarningMuted = "#f3ad5e";
 export const SemanticColorWarningSubtle = "#f7c58d";
 export const SemanticColorWarningWeak = "#fbe7cf";
 export const SemanticColorWarningWeaker = "#fef7f0";
+export const SemanticColorAttentionDefault = "#f6c644";
+export const SemanticColorAttentionOnAttention = "#000000";
+export const SemanticColorAttentionEmphasis = "#d1a83a";
+export const SemanticColorAttentionMuted = "#f7cf60";
+export const SemanticColorAttentionSubtle = "#fadd8f";
+export const SemanticColorAttentionWeak = "#fdf1d0";
+export const SemanticColorAttentionWeaker = "#fefaf0";
 export const SemanticColorDangerDefault = "#e03838";
 export const SemanticColorDangerOnDanger = "#ffffff";
 export const SemanticColorDangerEmphasis = "#b32d2d";
@@ -99,13 +106,6 @@ export const SemanticColorBorderAccent = "#000000";
 export const SemanticColorBorderFocus = "#9d9d9d";
 export const SemanticColorBorderDefault = "#c4c4c4";
 export const SemanticColorBorderSubtle = "#ebebeb";
-export const SemanticColorAttentionDefault = "#f6c644";
-export const SemanticColorAttentionOnAttention = "#000000";
-export const SemanticColorAttentionEmphasis = "#d1a83a";
-export const SemanticColorAttentionMuted = "#f7cf60";
-export const SemanticColorAttentionSubtle = "#fadd8f";
-export const SemanticColorAttentionWeak = "#fdf1d0";
-export const SemanticColorAttentionWeaker = "#fefaf0";
 export const SemanticOpacity10 = 0.04;
 export const SemanticOpacity20 = 0.08;
 export const SemanticOpacity30 = 0.12;
