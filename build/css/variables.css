@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 08 Jan 2023 18:46:53 GMT
+ * Generated on Sun, 08 Jan 2023 18:53:02 GMT
  */
 
 :root {
@@ -146,44 +146,49 @@
   --semantic-spacing-xxlarge-200: 240px;
   --semantic-spacing-xxlarge-300: 320px;
   --semantic-spacing-xxlarge-400: 480px;
-  --semantic-typescale-display-large-font-family: Montserrat, sans-serif;
+  --semantic-typescale-display-large-font-family: Inter, sans-serif;
   --semantic-typescale-display-large-font-weight: 500;
   --semantic-typescale-display-large-line-height: 140%;
   --semantic-typescale-display-large-font-size: 60;
-  --semantic-typescale-display-medium-font-family: Montserrat, sans-serif;
+  --semantic-typescale-display-medium-font-family: Inter, sans-serif;
   --semantic-typescale-display-medium-font-weight: 400;
   --semantic-typescale-display-medium-line-height: 140%;
   --semantic-typescale-display-medium-font-size: 53;
-  --semantic-typescale-display-small-font-family: Montserrat, sans-serif;
+  --semantic-typescale-display-small-font-family: Inter, sans-serif;
   --semantic-typescale-display-small-font-weight: 400;
   --semantic-typescale-display-small-line-height: 140%;
   --semantic-typescale-display-small-font-size: 47;
-  --semantic-typescale-heading-01-font-family: Montserrat, sans-serif;
+  --semantic-typescale-heading-01-font-family: Inter, sans-serif;
   --semantic-typescale-heading-01-font-weight: 700;
   --semantic-typescale-heading-01-line-height: 140%;
   --semantic-typescale-heading-01-font-size: 37;
-  --semantic-typescale-heading-02-font-family: Montserrat, sans-serif;
+  --semantic-typescale-heading-02-font-family: Inter, sans-serif;
   --semantic-typescale-heading-02-font-weight: 700;
   --semantic-typescale-heading-02-line-height: 140%;
   --semantic-typescale-heading-02-font-size: 33;
-  --semantic-typescale-heading-03-font-family: Montserrat, sans-serif;
+  --semantic-typescale-heading-03-font-family: Inter, sans-serif;
   --semantic-typescale-heading-03-font-weight: 700;
   --semantic-typescale-heading-03-line-height: 140%;
   --semantic-typescale-heading-03-font-size: 29;
-  --semantic-typescale-heading-04-font-family: Montserrat, sans-serif;
+  --semantic-typescale-heading-04-font-family: Inter, sans-serif;
   --semantic-typescale-heading-04-font-weight: 600;
   --semantic-typescale-heading-04-line-height: 140%;
   --semantic-typescale-heading-04-font-size: 26;
-  --semantic-typescale-heading-05-font-family: Montserrat, sans-serif;
+  --semantic-typescale-heading-05-font-family: Inter, sans-serif;
   --semantic-typescale-heading-05-font-weight: 600;
   --semantic-typescale-heading-05-line-height: 140%;
   --semantic-typescale-heading-05-font-size: 23;
-  --semantic-typescale-heading-06-font-family: Montserrat, sans-serif;
+  --semantic-typescale-heading-06-font-family: Inter, sans-serif;
   --semantic-typescale-heading-06-font-weight: 600;
   --semantic-typescale-heading-06-line-height: 140%;
   --semantic-typescale-heading-06-font-size: 20;
-  --semantic-font-family-brand-ltr: Montserrat, sans-serif;
-  --semantic-font-family-brand-rtl: Tajawal, sans-serif;
+  --semantic-font-family-ltr-primary: Inter, sans-serif;
+  --semantic-font-family-ltr-secondary: Inter, sans-serif;
+  --semantic-font-family-ltr-mono: Roboto Mono, monospace;
+  --semantic-font-family-rtl-primary: Tajawal, sans-serif;
+  --semantic-font-family-rtl-secondary: Tajawal, sans-serif;
+  --semantic-font-family-rtl-mono: Roboto Mono, monospace;
+  --semantic-font-weight-light: 300;
   --semantic-font-weight-normal: 400;
   --semantic-font-weight-medium: 500;
   --semantic-font-weight-semi-bold: 600;

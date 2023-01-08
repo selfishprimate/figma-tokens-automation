@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 08 Jan 2023 18:46:53 GMT
+ * Generated on Sun, 08 Jan 2023 18:53:02 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -145,44 +145,49 @@ export const SemanticSpacingXxlarge100 = "160px";
 export const SemanticSpacingXxlarge200 = "240px";
 export const SemanticSpacingXxlarge300 = "320px";
 export const SemanticSpacingXxlarge400 = "480px";
-export const SemanticTypescaleDisplayLargeFontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleDisplayLargeFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleDisplayLargeFontWeight = 500;
 export const SemanticTypescaleDisplayLargeLineHeight = "140%";
 export const SemanticTypescaleDisplayLargeFontSize = 60;
-export const SemanticTypescaleDisplayMediumFontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleDisplayMediumFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleDisplayMediumFontWeight = 400;
 export const SemanticTypescaleDisplayMediumLineHeight = "140%";
 export const SemanticTypescaleDisplayMediumFontSize = 53;
-export const SemanticTypescaleDisplaySmallFontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleDisplaySmallFontFamily = "Inter, sans-serif";
 export const SemanticTypescaleDisplaySmallFontWeight = 400;
 export const SemanticTypescaleDisplaySmallLineHeight = "140%";
 export const SemanticTypescaleDisplaySmallFontSize = 47;
-export const SemanticTypescaleHeading01FontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleHeading01FontFamily = "Inter, sans-serif";
 export const SemanticTypescaleHeading01FontWeight = 700;
 export const SemanticTypescaleHeading01LineHeight = "140%";
 export const SemanticTypescaleHeading01FontSize = 37;
-export const SemanticTypescaleHeading02FontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleHeading02FontFamily = "Inter, sans-serif";
 export const SemanticTypescaleHeading02FontWeight = 700;
 export const SemanticTypescaleHeading02LineHeight = "140%";
 export const SemanticTypescaleHeading02FontSize = 33;
-export const SemanticTypescaleHeading03FontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleHeading03FontFamily = "Inter, sans-serif";
 export const SemanticTypescaleHeading03FontWeight = 700;
 export const SemanticTypescaleHeading03LineHeight = "140%";
 export const SemanticTypescaleHeading03FontSize = 29;
-export const SemanticTypescaleHeading04FontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleHeading04FontFamily = "Inter, sans-serif";
 export const SemanticTypescaleHeading04FontWeight = 600;
 export const SemanticTypescaleHeading04LineHeight = "140%";
 export const SemanticTypescaleHeading04FontSize = 26;
-export const SemanticTypescaleHeading05FontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleHeading05FontFamily = "Inter, sans-serif";
 export const SemanticTypescaleHeading05FontWeight = 600;
 export const SemanticTypescaleHeading05LineHeight = "140%";
 export const SemanticTypescaleHeading05FontSize = 23;
-export const SemanticTypescaleHeading06FontFamily = "Montserrat, sans-serif";
+export const SemanticTypescaleHeading06FontFamily = "Inter, sans-serif";
 export const SemanticTypescaleHeading06FontWeight = 600;
 export const SemanticTypescaleHeading06LineHeight = "140%";
 export const SemanticTypescaleHeading06FontSize = 20;
-export const SemanticFontFamilyBrandLtr = "Montserrat, sans-serif";
-export const SemanticFontFamilyBrandRtl = "Tajawal, sans-serif";
+export const SemanticFontFamilyLtrPrimary = "Inter, sans-serif";
+export const SemanticFontFamilyLtrSecondary = "Inter, sans-serif";
+export const SemanticFontFamilyLtrMono = "Roboto Mono, monospace";
+export const SemanticFontFamilyRtlPrimary = "Tajawal, sans-serif";
+export const SemanticFontFamilyRtlSecondary = "Tajawal, sans-serif";
+export const SemanticFontFamilyRtlMono = "Roboto Mono, monospace";
+export const SemanticFontWeightLight = 300;
 export const SemanticFontWeightNormal = 400;
 export const SemanticFontWeightMedium = 500;
 export const SemanticFontWeightSemiBold = 600;
