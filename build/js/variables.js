@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 08 Jan 2023 19:02:28 GMT
+ * Generated on Sun, 08 Jan 2023 19:06:30 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -196,7 +196,7 @@ export const SemanticLineHeightNormal = "normal";
 export const SemanticLineHeightDefault = "120%";
 export const SemanticLineHeightMedium = "130%";
 export const SemanticLineHeightLarge = "140%";
-export const SemanticSizingBreakpointsZero = 0;
+export const SemanticSizingBreakpointsNone = 0;
 export const SemanticSizingBreakpointsSmall = "576px";
 export const SemanticSizingBreakpointsMedium = "768px";
 export const SemanticSizingBreakpointsLarge = "992px";
@@ -410,13 +410,13 @@ export const GlobalColorWhite900 = "#ffffff";
 export const GlobalColorPrimitivesBlack = "#000000";
 export const GlobalColorPrimitivesWhite = "#ffffff";
 export const GlobalColorPrimitivesTransparent = "#ffffff00";
-export const GlobalSizingBreakpointsBootstrapZero = 0;
+export const GlobalSizingBreakpointsBootstrapNone = 0;
 export const GlobalSizingBreakpointsBootstrapSmall = "576px";
 export const GlobalSizingBreakpointsBootstrapMedium = "768px";
 export const GlobalSizingBreakpointsBootstrapLarge = "992px";
 export const GlobalSizingBreakpointsBootstrapXlarge = "1200px";
 export const GlobalSizingBreakpointsBootstrapXxlarge = "1400px";
-export const GlobalSizingBreakpointsTailwindZero = 0;
+export const GlobalSizingBreakpointsTailwindNone = 0;
 export const GlobalSizingBreakpointsTailwindSmall = "640px";
 export const GlobalSizingBreakpointsTailwindMedium = "768px";
 export const GlobalSizingBreakpointsTailwindLarge = "1024px";
