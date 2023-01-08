@@ -878,7 +878,7 @@
       "sizing": {
         "breakpoints": {
           "bootstrap": {
-            "zero": {
+            "none": {
               "value": "0",
               "type": "sizing"
             },
@@ -904,7 +904,7 @@
             }
           },
           "tailwind": {
-            "zero": {
+            "none": {
               "value": "0",
               "type": "sizing"
             },
@@ -1708,8 +1708,8 @@
       },
       "sizing": {
         "breakpoints": {
-          "zero": {
-            "value": "{global.sizing.breakpoints.bootstrap.zero}",
+          "none": {
+            "value": "{global.sizing.breakpoints.bootstrap.none}",
             "type": "sizing"
           },
           "small": {
