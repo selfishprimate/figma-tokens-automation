@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 08 Jan 2023 18:53:02 GMT
+ * Generated on Sun, 08 Jan 2023 19:02:28 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -145,18 +145,18 @@ export const SemanticSpacingXxlarge100 = "160px";
 export const SemanticSpacingXxlarge200 = "240px";
 export const SemanticSpacingXxlarge300 = "320px";
 export const SemanticSpacingXxlarge400 = "480px";
-export const SemanticTypescaleDisplayLargeFontFamily = "Inter, sans-serif";
-export const SemanticTypescaleDisplayLargeFontWeight = 500;
-export const SemanticTypescaleDisplayLargeLineHeight = "140%";
-export const SemanticTypescaleDisplayLargeFontSize = 60;
-export const SemanticTypescaleDisplayMediumFontFamily = "Inter, sans-serif";
-export const SemanticTypescaleDisplayMediumFontWeight = 400;
-export const SemanticTypescaleDisplayMediumLineHeight = "140%";
-export const SemanticTypescaleDisplayMediumFontSize = 53;
-export const SemanticTypescaleDisplaySmallFontFamily = "Inter, sans-serif";
-export const SemanticTypescaleDisplaySmallFontWeight = 400;
-export const SemanticTypescaleDisplaySmallLineHeight = "140%";
-export const SemanticTypescaleDisplaySmallFontSize = 47;
+export const SemanticTypescaleDisplay01FontFamily = "Inter, sans-serif";
+export const SemanticTypescaleDisplay01FontWeight = 500;
+export const SemanticTypescaleDisplay01LineHeight = "140%";
+export const SemanticTypescaleDisplay01FontSize = 60;
+export const SemanticTypescaleDisplay02FontFamily = "Inter, sans-serif";
+export const SemanticTypescaleDisplay02FontWeight = 400;
+export const SemanticTypescaleDisplay02LineHeight = "140%";
+export const SemanticTypescaleDisplay02FontSize = 53;
+export const SemanticTypescaleDisplay03FontFamily = "Inter, sans-serif";
+export const SemanticTypescaleDisplay03FontWeight = 400;
+export const SemanticTypescaleDisplay03LineHeight = "140%";
+export const SemanticTypescaleDisplay03FontSize = 47;
 export const SemanticTypescaleHeading01FontFamily = "Inter, sans-serif";
 export const SemanticTypescaleHeading01FontWeight = 700;
 export const SemanticTypescaleHeading01LineHeight = "140%";
