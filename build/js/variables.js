@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Jan 2023 16:34:31 GMT
+ * Generated on Sun, 08 Jan 2023 18:46:53 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -416,4 +416,4 @@ export const GlobalSizingBreakpointsTailwindSmall = "640px";
 export const GlobalSizingBreakpointsTailwindMedium = "768px";
 export const GlobalSizingBreakpointsTailwindLarge = "1024px";
 export const GlobalSizingBreakpointsTailwindXlarge = "1280px";
-export const GlobalSizingBreakpointsTailwindXxlaarge = "1536px";
+export const GlobalSizingBreakpointsTailwindXxlarge = "1536px";
