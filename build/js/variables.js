@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 08 Jan 2023 19:06:30 GMT
+ * Generated on Sun, 08 Jan 2023 19:14:53 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -221,11 +221,11 @@ export const GlobalBorderRadiusXlarge = "32px";
 export const GlobalBorderRadiusXxlarge = "64px";
 export const GlobalFontSizeBase = 16;
 export const GlobalFontSizeScale = 1.125;
-export const GlobalFontSize4xsmall = 10;
-export const GlobalFontSize3xsmall = 11;
-export const GlobalFontSize2xsmall = 12;
-export const GlobalFontSizeXsmall = 13;
-export const GlobalFontSizeSmall = 14;
+export const GlobalFontSize4xsmall = 11;
+export const GlobalFontSize3xsmall = 12;
+export const GlobalFontSize2xsmall = 13;
+export const GlobalFontSizeXsmall = 14;
+export const GlobalFontSizeSmall = 15;
 export const GlobalFontSizeDefault = 16;
 export const GlobalFontSizeMedium = 18;
 export const GlobalFontSizeLarge = 20;
