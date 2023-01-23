@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 23 Jan 2023 08:44:56 GMT
+ * Generated on Mon, 23 Jan 2023 08:55:15 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -202,6 +202,14 @@ export const SemanticSizingBreakpointsMedium = "768px";
 export const SemanticSizingBreakpointsLarge = "1024px";
 export const SemanticSizingBreakpointsXlarge = "1280px";
 export const SemanticSizingBreakpointsXxlarge = "1536px";
+export const SemanticBorderRadiusNone = 0;
+export const SemanticBorderRadiusXsmall = "2px";
+export const SemanticBorderRadiusSmall = "4px";
+export const SemanticBorderRadiusDefault = "6px";
+export const SemanticBorderRadiusMedium = "8px";
+export const SemanticBorderRadiusLarge = "16px";
+export const SemanticBorderRadiusXlarge = "32px";
+export const SemanticBorderRadiusXxlarge = "64px";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
@@ -211,14 +219,6 @@ export const GlobalFontWeightSemiBold = 600;
 export const GlobalFontWeightBold = 700;
 export const GlobalFontWeightExtraBold = 800;
 export const GlobalFontWeightBlack = 900;
-export const GlobalBorderRadiusNone = 0;
-export const GlobalBorderRadiusXsmall = "2px";
-export const GlobalBorderRadiusSmall = "4px";
-export const GlobalBorderRadiusDefault = "6px";
-export const GlobalBorderRadiusMedium = "8px";
-export const GlobalBorderRadiusLarge = "16px";
-export const GlobalBorderRadiusXlarge = "32px";
-export const GlobalBorderRadiusXxlarge = "64px";
 export const GlobalFontSizeBase = 16;
 export const GlobalFontSizeScale = 1.125;
 export const GlobalFontSize4xsmall = 11;

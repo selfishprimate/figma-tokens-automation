@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 23 Jan 2023 08:44:56 GMT
+ * Generated on Mon, 23 Jan 2023 08:55:15 GMT
  */
 
 :root {
@@ -203,6 +203,14 @@
   --semantic-sizing-breakpoints-large: 1024px;
   --semantic-sizing-breakpoints-xlarge: 1280px;
   --semantic-sizing-breakpoints-xxlarge: 1536px;
+  --semantic-border-radius-none: 0;
+  --semantic-border-radius-xsmall: 2px;
+  --semantic-border-radius-small: 4px;
+  --semantic-border-radius-default: 6px;
+  --semantic-border-radius-medium: 8px;
+  --semantic-border-radius-large: 16px;
+  --semantic-border-radius-xlarge: 32px;
+  --semantic-border-radius-xxlarge: 64px;
   --global-font-weight-thin: 200;
   --global-font-weight-extra-light: 200;
   --global-font-weight-light: 300;
@@ -212,14 +220,6 @@
   --global-font-weight-bold: 700;
   --global-font-weight-extra-bold: 800;
   --global-font-weight-black: 900;
-  --global-border-radius-none: 0;
-  --global-border-radius-xsmall: 2px;
-  --global-border-radius-small: 4px;
-  --global-border-radius-default: 6px;
-  --global-border-radius-medium: 8px;
-  --global-border-radius-large: 16px;
-  --global-border-radius-xlarge: 32px;
-  --global-border-radius-xxlarge: 64px;
   --global-font-size-base: 16;
   --global-font-size-scale: 1.125;
   --global-font-size-4xsmall: 11;
