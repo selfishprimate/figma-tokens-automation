@@ -1709,27 +1709,27 @@
       "sizing": {
         "breakpoints": {
           "none": {
-            "value": "{global.sizing.breakpoints.bootstrap.none}",
+            "value": "{global.sizing.breakpoints.tailwind.none}",
             "type": "sizing"
           },
           "small": {
-            "value": "{global.sizing.breakpoints.bootstrap.small}",
+            "value": "{global.sizing.breakpoints.tailwind.small}",
             "type": "sizing"
           },
           "medium": {
-            "value": "{global.sizing.breakpoints.bootstrap.medium}",
+            "value": "{global.sizing.breakpoints.tailwind.medium}",
             "type": "sizing"
           },
           "large": {
-            "value": "{global.sizing.breakpoints.bootstrap.large}",
+            "value": "{global.sizing.breakpoints.tailwind.large}",
             "type": "sizing"
           },
           "xlarge": {
-            "value": "{global.sizing.breakpoints.bootstrap.xlarge}",
+            "value": "{global.sizing.breakpoints.tailwind.xlarge}",
             "type": "sizing"
           },
           "xxlarge": {
-            "value": "{global.sizing.breakpoints.bootstrap.xxlarge}",
+            "value": "{global.sizing.breakpoints.tailwind.xxlarge}",
             "type": "sizing"
           }
         }
