@@ -41,41 +41,6 @@
           "type": "fontWeights"
         }
       },
-      "borderRadius": {
-        "none": {
-          "value": "0",
-          "type": "borderRadius",
-          "description": "This may be used to reset the current value."
-        },
-        "xsmall": {
-          "value": "2px",
-          "type": "borderRadius"
-        },
-        "small": {
-          "value": "4px",
-          "type": "borderRadius"
-        },
-        "default": {
-          "value": "6px",
-          "type": "borderRadius"
-        },
-        "medium": {
-          "value": "8px",
-          "type": "borderRadius"
-        },
-        "large": {
-          "value": "16px",
-          "type": "borderRadius"
-        },
-        "xlarge": {
-          "value": "32px",
-          "type": "borderRadius"
-        },
-        "xxlarge": {
-          "value": "64px",
-          "type": "borderRadius"
-        }
-      },
       "fontSize": {
         "base": {
           "value": "16",
@@ -1732,6 +1697,40 @@
             "value": "{global.sizing.breakpoints.tailwind.xxlarge}",
             "type": "sizing"
           }
+        }
+      },
+      "borderRadius": {
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
+        },
+        "xsmall": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "default": {
+          "value": "6px",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "8px",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "xlarge": {
+          "value": "32px",
+          "type": "borderRadius"
+        },
+        "xxlarge": {
+          "value": "64px",
+          "type": "borderRadius"
         }
       }
     }
