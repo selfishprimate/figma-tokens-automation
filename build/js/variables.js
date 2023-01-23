@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 08 Jan 2023 19:14:53 GMT
+ * Generated on Mon, 23 Jan 2023 08:44:56 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -197,11 +197,11 @@ export const SemanticLineHeightDefault = "120%";
 export const SemanticLineHeightMedium = "130%";
 export const SemanticLineHeightLarge = "140%";
 export const SemanticSizingBreakpointsNone = 0;
-export const SemanticSizingBreakpointsSmall = "576px";
+export const SemanticSizingBreakpointsSmall = "640px";
 export const SemanticSizingBreakpointsMedium = "768px";
-export const SemanticSizingBreakpointsLarge = "992px";
-export const SemanticSizingBreakpointsXlarge = "1200px";
-export const SemanticSizingBreakpointsXxlarge = "1400px";
+export const SemanticSizingBreakpointsLarge = "1024px";
+export const SemanticSizingBreakpointsXlarge = "1280px";
+export const SemanticSizingBreakpointsXxlarge = "1536px";
 export const GlobalFontWeightThin = 200;
 export const GlobalFontWeightExtraLight = 200;
 export const GlobalFontWeightLight = 300;
