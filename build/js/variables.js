@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 23 Jan 2023 08:55:15 GMT
+ * Generated on Sat, 28 Jan 2023 21:37:14 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -251,19 +251,19 @@ export const GlobalLineHeightLarge = "140%";
 export const GlobalLineHeightXlarge = "150%";
 export const GlobalLineHeightXxlarge = "175%";
 export const GlobalLineHeightNormal = "normal";
-export const GlobalColorIndigo10 = "#fbfcfe";
-export const GlobalColorIndigo20 = "#f6f7fc";
-export const GlobalColorIndigo30 = "#edeff9";
-export const GlobalColorIndigo50 = "#dcdef2";
-export const GlobalColorIndigo100 = "#b9bee6";
-export const GlobalColorIndigo200 = "#969dd9";
-export const GlobalColorIndigo300 = "#6a74c9";
-export const GlobalColorIndigo400 = "#505cc0";
-export const GlobalColorIndigo500 = "#404a9a";
-export const GlobalColorIndigo600 = "#303773";
-export const GlobalColorIndigo700 = "#242956";
-export const GlobalColorIndigo800 = "#181c3a";
-export const GlobalColorIndigo900 = "#101226";
+export const GlobalColorAmethyst10 = "#fbfbfd";
+export const GlobalColorAmethyst20 = "#f6f6fa";
+export const GlobalColorAmethyst30 = "#ededf4";
+export const GlobalColorAmethyst50 = "#dbdbe9";
+export const GlobalColorAmethyst100 = "#b8b7d4";
+export const GlobalColorAmethyst200 = "#9492be";
+export const GlobalColorAmethyst300 = "#6865a3";
+export const GlobalColorAmethyst400 = "#4d4a93";
+export const GlobalColorAmethyst500 = "#3e3b76";
+export const GlobalColorAmethyst600 = "#2e2c58";
+export const GlobalColorAmethyst700 = "#232142";
+export const GlobalColorAmethyst800 = "#17162c";
+export const GlobalColorAmethyst900 = "#0f0f1d";
 export const GlobalColorHarvestGold10 = "#fefefc";
 export const GlobalColorHarvestGold20 = "#fdfcf8";
 export const GlobalColorHarvestGold30 = "#fbf8f2";
