@@ -963,7 +963,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{global.color.harvestGold.500}",
+            "value": "{global.color.amethyst.400}",
             "type": "color"
           },
           "on-secondary": {
@@ -971,23 +971,23 @@
             "type": "color"
           },
           "emphasis": {
-            "value": "{global.color.harvestGold.600}",
+            "value": "{global.color.amethyst.500}",
             "type": "color"
           },
           "muted": {
-            "value": "{global.color.harvestGold.400}",
+            "value": "{global.color.amethyst.300}",
             "type": "color"
           },
           "subtle": {
-            "value": "{global.color.harvestGold.300}",
+            "value": "{global.color.amethyst.200}",
             "type": "color"
           },
           "weak": {
-            "value": "{global.color.harvestGold.100}",
+            "value": "{global.color.amethyst.50}",
             "type": "color"
           },
           "weaker": {
-            "value": "{global.color.harvestGold.30}",
+            "value": "{global.color.amethyst.30}",
             "type": "color"
           }
         },
