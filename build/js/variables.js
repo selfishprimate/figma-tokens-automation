@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 28 Jan 2023 21:37:14 GMT
+ * Generated on Sun, 29 Jan 2023 12:51:17 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -17,13 +17,13 @@ export const SemanticColorPrimaryMuted = "#626262";
 export const SemanticColorPrimarySubtle = "#767676";
 export const SemanticColorPrimaryWeak = "#b1b1b1";
 export const SemanticColorPrimaryWeaker = "#c4c4c4";
-export const SemanticColorSecondaryDefault = "#ae9564";
+export const SemanticColorSecondaryDefault = "#4d4a93";
 export const SemanticColorSecondaryOnSecondary = "#ffffff";
-export const SemanticColorSecondaryEmphasis = "#82704b";
-export const SemanticColorSecondaryMuted = "#d9ba7d";
-export const SemanticColorSecondarySubtle = "#dfc490";
-export const SemanticColorSecondaryWeak = "#f0e3cb";
-export const SemanticColorSecondaryWeaker = "#fbf8f2";
+export const SemanticColorSecondaryEmphasis = "#3e3b76";
+export const SemanticColorSecondaryMuted = "#6865a3";
+export const SemanticColorSecondarySubtle = "#9492be";
+export const SemanticColorSecondaryWeak = "#dbdbe9";
+export const SemanticColorSecondaryWeaker = "#ededf4";
 export const SemanticColorSuccessDefault = "#1cb063";
 export const SemanticColorSuccessOnSuccess = "#ffffff";
 export const SemanticColorSuccessEmphasis = "#168d4f";
@@ -63,7 +63,7 @@ export const SemanticColorIconAccent = "#000000";
 export const SemanticColorIconOnAccent = "#ffffff";
 export const SemanticColorIconPrimary = "#000000";
 export const SemanticColorIconOnPrimary = "#ffffff";
-export const SemanticColorIconSecondary = "#ae9564";
+export const SemanticColorIconSecondary = "#4d4a93";
 export const SemanticColorIconOnSecondary = "#ffffff";
 export const SemanticColorIconSuccess = "#1cb063";
 export const SemanticColorIconOnSuccess = "#ffffff";
@@ -78,7 +78,7 @@ export const SemanticColorTextMuted = "#626262";
 export const SemanticColorTextSubtle = "#9d9d9d";
 export const SemanticColorTextAccent = "#000000";
 export const SemanticColorTextPrimary = "#000000";
-export const SemanticColorTextSecondary = "#ae9564";
+export const SemanticColorTextSecondary = "#4d4a93";
 export const SemanticColorTextSuccess = "#1cb063";
 export const SemanticColorTextInfo = "#3771e0";
 export const SemanticColorTextWarning = "#f19e41";

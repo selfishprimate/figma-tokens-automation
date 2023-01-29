@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 28 Jan 2023 21:37:14 GMT
+ * Generated on Sun, 29 Jan 2023 12:51:17 GMT
  */
 
 :root {
@@ -18,13 +18,13 @@
   --semantic-color-primary-subtle: #767676;
   --semantic-color-primary-weak: #b1b1b1;
   --semantic-color-primary-weaker: #c4c4c4;
-  --semantic-color-secondary-default: #ae9564;
+  --semantic-color-secondary-default: #4d4a93;
   --semantic-color-secondary-on-secondary: #ffffff;
-  --semantic-color-secondary-emphasis: #82704b;
-  --semantic-color-secondary-muted: #d9ba7d;
-  --semantic-color-secondary-subtle: #dfc490;
-  --semantic-color-secondary-weak: #f0e3cb;
-  --semantic-color-secondary-weaker: #fbf8f2;
+  --semantic-color-secondary-emphasis: #3e3b76;
+  --semantic-color-secondary-muted: #6865a3;
+  --semantic-color-secondary-subtle: #9492be;
+  --semantic-color-secondary-weak: #dbdbe9;
+  --semantic-color-secondary-weaker: #ededf4;
   --semantic-color-success-default: #1cb063;
   --semantic-color-success-on-success: #ffffff;
   --semantic-color-success-emphasis: #168d4f;
@@ -64,7 +64,7 @@
   --semantic-color-icon-on-accent: #ffffff;
   --semantic-color-icon-primary: #000000;
   --semantic-color-icon-on-primary: #ffffff;
-  --semantic-color-icon-secondary: #ae9564;
+  --semantic-color-icon-secondary: #4d4a93;
   --semantic-color-icon-on-secondary: #ffffff;
   --semantic-color-icon-success: #1cb063;
   --semantic-color-icon-on-success: #ffffff;
@@ -79,7 +79,7 @@
   --semantic-color-text-subtle: #9d9d9d;
   --semantic-color-text-accent: #000000;
   --semantic-color-text-primary: #000000;
-  --semantic-color-text-secondary: #ae9564;
+  --semantic-color-text-secondary: #4d4a93;
   --semantic-color-text-success: #1cb063;
   --semantic-color-text-info: #3771e0;
   --semantic-color-text-warning: #f19e41;
