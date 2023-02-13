@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 29 Jan 2023 12:51:17 GMT
+ * Generated on Mon, 13 Feb 2023 11:08:30 GMT
  */
 
 :root {
@@ -31,28 +31,28 @@
   --semantic-color-success-muted: #3ebc7a;
   --semantic-color-success-subtle: #77d0a1;
   --semantic-color-success-weak: #d2efe0;
-  --semantic-color-success-weaker: #f4fbf7;
+  --semantic-color-success-weaker: #e8f7ef;
   --semantic-color-info-default: #3771e0;
   --semantic-color-info-on-info: #ffffff;
   --semantic-color-info-emphasis: #2c5ab3;
   --semantic-color-info-muted: #5586e5;
   --semantic-color-info-subtle: #87aaec;
   --semantic-color-info-weak: #d7e3f9;
-  --semantic-color-info-weaker: #f5f8fd;
+  --semantic-color-info-weaker: #ebf1fc;
   --semantic-color-warning-default: #f19e41;
   --semantic-color-warning-on-warning: #ffffff;
   --semantic-color-warning-emphasis: #cd8637;
   --semantic-color-warning-muted: #f3ad5e;
   --semantic-color-warning-subtle: #f7c58d;
   --semantic-color-warning-weak: #fbe7cf;
-  --semantic-color-warning-weaker: #fef7f0;
+  --semantic-color-warning-weaker: #fdf0e3;
   --semantic-color-attention-default: #f6c644;
   --semantic-color-attention-on-attention: #000000;
   --semantic-color-attention-emphasis: #d1a83a;
   --semantic-color-attention-muted: #f7cf60;
   --semantic-color-attention-subtle: #fadd8f;
   --semantic-color-attention-weak: #fdf1d0;
-  --semantic-color-attention-weaker: #fefaf0;
+  --semantic-color-attention-weaker: #fef6e3;
   --semantic-color-danger-default: #e03838;
   --semantic-color-danger-on-danger: #ffffff;
   --semantic-color-danger-emphasis: #b32d2d;

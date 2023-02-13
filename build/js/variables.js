@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 29 Jan 2023 12:51:17 GMT
+ * Generated on Mon, 13 Feb 2023 11:08:30 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -30,28 +30,28 @@ export const SemanticColorSuccessEmphasis = "#168d4f";
 export const SemanticColorSuccessMuted = "#3ebc7a";
 export const SemanticColorSuccessSubtle = "#77d0a1";
 export const SemanticColorSuccessWeak = "#d2efe0";
-export const SemanticColorSuccessWeaker = "#f4fbf7";
+export const SemanticColorSuccessWeaker = "#e8f7ef";
 export const SemanticColorInfoDefault = "#3771e0";
 export const SemanticColorInfoOnInfo = "#ffffff";
 export const SemanticColorInfoEmphasis = "#2c5ab3";
 export const SemanticColorInfoMuted = "#5586e5";
 export const SemanticColorInfoSubtle = "#87aaec";
 export const SemanticColorInfoWeak = "#d7e3f9";
-export const SemanticColorInfoWeaker = "#f5f8fd";
+export const SemanticColorInfoWeaker = "#ebf1fc";
 export const SemanticColorWarningDefault = "#f19e41";
 export const SemanticColorWarningOnWarning = "#ffffff";
 export const SemanticColorWarningEmphasis = "#cd8637";
 export const SemanticColorWarningMuted = "#f3ad5e";
 export const SemanticColorWarningSubtle = "#f7c58d";
 export const SemanticColorWarningWeak = "#fbe7cf";
-export const SemanticColorWarningWeaker = "#fef7f0";
+export const SemanticColorWarningWeaker = "#fdf0e3";
 export const SemanticColorAttentionDefault = "#f6c644";
 export const SemanticColorAttentionOnAttention = "#000000";
 export const SemanticColorAttentionEmphasis = "#d1a83a";
 export const SemanticColorAttentionMuted = "#f7cf60";
 export const SemanticColorAttentionSubtle = "#fadd8f";
 export const SemanticColorAttentionWeak = "#fdf1d0";
-export const SemanticColorAttentionWeaker = "#fefaf0";
+export const SemanticColorAttentionWeaker = "#fef6e3";
 export const SemanticColorDangerDefault = "#e03838";
 export const SemanticColorDangerOnDanger = "#ffffff";
 export const SemanticColorDangerEmphasis = "#b32d2d";
