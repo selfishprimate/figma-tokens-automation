@@ -1137,7 +1137,7 @@
             "type": "color"
           },
           "weaker": {
-            "value": "{global.color.red.20}",
+            "value": "{global.color.red.30}",
             "type": "color"
           }
         },
