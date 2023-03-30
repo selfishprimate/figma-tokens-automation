@@ -840,59 +840,57 @@
           }
         }
       },
-      "sizing": {
-        "breakpoints": {
-          "bootstrap": {
-            "none": {
-              "value": "0",
-              "type": "sizing"
-            },
-            "small": {
-              "value": "576px",
-              "type": "sizing"
-            },
-            "medium": {
-              "value": "768px",
-              "type": "sizing"
-            },
-            "large": {
-              "value": "992px",
-              "type": "sizing"
-            },
-            "xlarge": {
-              "value": "1200px",
-              "type": "sizing"
-            },
-            "xxlarge": {
-              "value": "1400px",
-              "type": "sizing"
-            }
+      "breakpoints": {
+        "bootstrap": {
+          "none": {
+            "value": "0",
+            "type": "sizing"
           },
-          "tailwind": {
-            "none": {
-              "value": "0",
-              "type": "sizing"
-            },
-            "small": {
-              "value": "640px",
-              "type": "sizing"
-            },
-            "medium": {
-              "value": "768px",
-              "type": "sizing"
-            },
-            "large": {
-              "value": "1024px",
-              "type": "sizing"
-            },
-            "xlarge": {
-              "value": "1280px",
-              "type": "sizing"
-            },
-            "xxlarge": {
-              "value": "1536px",
-              "type": "sizing"
-            }
+          "small": {
+            "value": "576px",
+            "type": "sizing"
+          },
+          "medium": {
+            "value": "768px",
+            "type": "sizing"
+          },
+          "large": {
+            "value": "992px",
+            "type": "sizing"
+          },
+          "xlarge": {
+            "value": "1200px",
+            "type": "sizing"
+          },
+          "xxlarge": {
+            "value": "1400px",
+            "type": "sizing"
+          }
+        },
+        "tailwind": {
+          "none": {
+            "value": "0",
+            "type": "sizing"
+          },
+          "small": {
+            "value": "640px",
+            "type": "sizing"
+          },
+          "medium": {
+            "value": "768px",
+            "type": "sizing"
+          },
+          "large": {
+            "value": "1024px",
+            "type": "sizing"
+          },
+          "xlarge": {
+            "value": "1280px",
+            "type": "sizing"
+          },
+          "xxlarge": {
+            "value": "1536px",
+            "type": "sizing"
           }
         }
       }
@@ -1735,32 +1733,30 @@
           "type": "lineHeights"
         }
       },
-      "sizing": {
-        "breakpoints": {
-          "none": {
-            "value": "{global.sizing.breakpoints.tailwind.none}",
-            "type": "sizing"
-          },
-          "small": {
-            "value": "{global.sizing.breakpoints.tailwind.small}",
-            "type": "sizing"
-          },
-          "medium": {
-            "value": "{global.sizing.breakpoints.tailwind.medium}",
-            "type": "sizing"
-          },
-          "large": {
-            "value": "{global.sizing.breakpoints.tailwind.large}",
-            "type": "sizing"
-          },
-          "xlarge": {
-            "value": "{global.sizing.breakpoints.tailwind.xlarge}",
-            "type": "sizing"
-          },
-          "xxlarge": {
-            "value": "{global.sizing.breakpoints.tailwind.xxlarge}",
-            "type": "sizing"
-          }
+      "breakpoints": {
+        "none": {
+          "value": "{global.breakpoints.tailwind.none}",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "{global.breakpoints.tailwind.small}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{global.breakpoints.tailwind.medium}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{global.breakpoints.tailwind.large}",
+          "type": "sizing"
+        },
+        "xlarge": {
+          "value": "{global.breakpoints.tailwind.xlarge}",
+          "type": "sizing"
+        },
+        "xxlarge": {
+          "value": "{global.breakpoints.tailwind.xxlarge}",
+          "type": "sizing"
         }
       },
       "borderRadius": {
