@@ -929,6 +929,10 @@
           "weaker": {
             "value": "{semantic.color.primary.weaker}",
             "type": "color"
+          },
+          "ghost": {
+            "value": "{semantic.color.primary.ghost}",
+            "type": "color"
           }
         },
         "primary": {
@@ -958,6 +962,10 @@
           },
           "weaker": {
             "value": "{global.color.black.30}",
+            "type": "color"
+          },
+          "ghost": {
+            "value": "{global.color.black.20}",
             "type": "color"
           }
         },
@@ -993,6 +1001,10 @@
           "weaker": {
             "value": "{global.color.amethyst.30}",
             "type": "color"
+          },
+          "ghost": {
+            "value": "{global.color.amethyst.20}",
+            "type": "color"
           }
         },
         "success": {
@@ -1026,6 +1038,10 @@
           },
           "weaker": {
             "value": "{global.color.green.30}",
+            "type": "color"
+          },
+          "ghost": {
+            "value": "{global.color.green.20}",
             "type": "color"
           }
         },
@@ -1061,6 +1077,10 @@
           "weaker": {
             "value": "{global.color.blue.30}",
             "type": "color"
+          },
+          "ghost": {
+            "value": "{global.color.blue.20}",
+            "type": "color"
           }
         },
         "warning": {
@@ -1094,6 +1114,10 @@
           },
           "weaker": {
             "value": "{global.color.orange.30}",
+            "type": "color"
+          },
+          "ghost": {
+            "value": "{global.color.orange.20}",
             "type": "color"
           }
         },
@@ -1129,6 +1153,10 @@
           "weaker": {
             "value": "{global.color.yellow.30}",
             "type": "color"
+          },
+          "ghost": {
+            "value": "{global.color.yellow.20}",
+            "type": "color"
           }
         },
         "danger": {
@@ -1162,6 +1190,10 @@
           },
           "weaker": {
             "value": "{global.color.red.30}",
+            "type": "color"
+          },
+          "ghost": {
+            "value": "{global.color.red.20}",
             "type": "color"
           }
         },
@@ -1292,6 +1324,14 @@
           },
           "500": {
             "value": "{global.color.white.400}",
+            "type": "color"
+          },
+          "600": {
+            "value": "{global.color.white.300}",
+            "type": "color"
+          },
+          "700": {
+            "value": "{global.color.white.200}",
             "type": "color"
           }
         },
