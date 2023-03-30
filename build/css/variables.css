@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 30 Mar 2023 13:17:36 GMT
+ * Generated on Thu, 30 Mar 2023 13:55:54 GMT
  */
 
 :root {
@@ -213,12 +213,12 @@
   --semantic-line-height-default: 120%;
   --semantic-line-height-medium: 130%;
   --semantic-line-height-large: 140%;
-  --semantic-sizing-breakpoints-none: 0;
-  --semantic-sizing-breakpoints-small: 640px;
-  --semantic-sizing-breakpoints-medium: 768px;
-  --semantic-sizing-breakpoints-large: 1024px;
-  --semantic-sizing-breakpoints-xlarge: 1280px;
-  --semantic-sizing-breakpoints-xxlarge: 1536px;
+  --semantic-breakpoints-none: 0;
+  --semantic-breakpoints-small: 640px;
+  --semantic-breakpoints-medium: 768px;
+  --semantic-breakpoints-large: 1024px;
+  --semantic-breakpoints-xlarge: 1280px;
+  --semantic-breakpoints-xxlarge: 1536px;
   --semantic-border-radius-none: 0;
   --semantic-border-radius-xsmall: 2px;
   --semantic-border-radius-small: 4px;
@@ -427,16 +427,16 @@
   --global-color-primitives-black: #000000;
   --global-color-primitives-white: #ffffff;
   --global-color-primitives-transparent: #ffffff00;
-  --global-sizing-breakpoints-bootstrap-none: 0;
-  --global-sizing-breakpoints-bootstrap-small: 576px;
-  --global-sizing-breakpoints-bootstrap-medium: 768px;
-  --global-sizing-breakpoints-bootstrap-large: 992px;
-  --global-sizing-breakpoints-bootstrap-xlarge: 1200px;
-  --global-sizing-breakpoints-bootstrap-xxlarge: 1400px;
-  --global-sizing-breakpoints-tailwind-none: 0;
-  --global-sizing-breakpoints-tailwind-small: 640px;
-  --global-sizing-breakpoints-tailwind-medium: 768px;
-  --global-sizing-breakpoints-tailwind-large: 1024px;
-  --global-sizing-breakpoints-tailwind-xlarge: 1280px;
-  --global-sizing-breakpoints-tailwind-xxlarge: 1536px;
+  --global-breakpoints-bootstrap-none: 0;
+  --global-breakpoints-bootstrap-small: 576px;
+  --global-breakpoints-bootstrap-medium: 768px;
+  --global-breakpoints-bootstrap-large: 992px;
+  --global-breakpoints-bootstrap-xlarge: 1200px;
+  --global-breakpoints-bootstrap-xxlarge: 1400px;
+  --global-breakpoints-tailwind-none: 0;
+  --global-breakpoints-tailwind-small: 640px;
+  --global-breakpoints-tailwind-medium: 768px;
+  --global-breakpoints-tailwind-large: 1024px;
+  --global-breakpoints-tailwind-xlarge: 1280px;
+  --global-breakpoints-tailwind-xxlarge: 1536px;
 }

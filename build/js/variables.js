@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 30 Mar 2023 13:17:36 GMT
+ * Generated on Thu, 30 Mar 2023 13:55:54 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -212,12 +212,12 @@ export const SemanticLineHeightNormal = "normal";
 export const SemanticLineHeightDefault = "120%";
 export const SemanticLineHeightMedium = "130%";
 export const SemanticLineHeightLarge = "140%";
-export const SemanticSizingBreakpointsNone = 0;
-export const SemanticSizingBreakpointsSmall = "640px";
-export const SemanticSizingBreakpointsMedium = "768px";
-export const SemanticSizingBreakpointsLarge = "1024px";
-export const SemanticSizingBreakpointsXlarge = "1280px";
-export const SemanticSizingBreakpointsXxlarge = "1536px";
+export const SemanticBreakpointsNone = 0;
+export const SemanticBreakpointsSmall = "640px";
+export const SemanticBreakpointsMedium = "768px";
+export const SemanticBreakpointsLarge = "1024px";
+export const SemanticBreakpointsXlarge = "1280px";
+export const SemanticBreakpointsXxlarge = "1536px";
 export const SemanticBorderRadiusNone = 0;
 export const SemanticBorderRadiusXsmall = "2px";
 export const SemanticBorderRadiusSmall = "4px";
@@ -426,15 +426,15 @@ export const GlobalColorWhite900 = "#ffffff";
 export const GlobalColorPrimitivesBlack = "#000000";
 export const GlobalColorPrimitivesWhite = "#ffffff";
 export const GlobalColorPrimitivesTransparent = "#ffffff00";
-export const GlobalSizingBreakpointsBootstrapNone = 0;
-export const GlobalSizingBreakpointsBootstrapSmall = "576px";
-export const GlobalSizingBreakpointsBootstrapMedium = "768px";
-export const GlobalSizingBreakpointsBootstrapLarge = "992px";
-export const GlobalSizingBreakpointsBootstrapXlarge = "1200px";
-export const GlobalSizingBreakpointsBootstrapXxlarge = "1400px";
-export const GlobalSizingBreakpointsTailwindNone = 0;
-export const GlobalSizingBreakpointsTailwindSmall = "640px";
-export const GlobalSizingBreakpointsTailwindMedium = "768px";
-export const GlobalSizingBreakpointsTailwindLarge = "1024px";
-export const GlobalSizingBreakpointsTailwindXlarge = "1280px";
-export const GlobalSizingBreakpointsTailwindXxlarge = "1536px";
+export const GlobalBreakpointsBootstrapNone = 0;
+export const GlobalBreakpointsBootstrapSmall = "576px";
+export const GlobalBreakpointsBootstrapMedium = "768px";
+export const GlobalBreakpointsBootstrapLarge = "992px";
+export const GlobalBreakpointsBootstrapXlarge = "1200px";
+export const GlobalBreakpointsBootstrapXxlarge = "1400px";
+export const GlobalBreakpointsTailwindNone = 0;
+export const GlobalBreakpointsTailwindSmall = "640px";
+export const GlobalBreakpointsTailwindMedium = "768px";
+export const GlobalBreakpointsTailwindLarge = "1024px";
+export const GlobalBreakpointsTailwindXlarge = "1280px";
+export const GlobalBreakpointsTailwindXxlarge = "1536px";
