@@ -1359,7 +1359,7 @@
             "type": "color"
           },
           "on-disabled": {
-            "value": "{global.color.black.30}",
+            "value": "{global.color.black.100}",
             "type": "color"
           }
         },
