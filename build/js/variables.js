@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 10 May 2023 12:41:18 GMT
+ * Generated on Wed, 10 May 2023 12:43:57 GMT
  */
 
 export const SemanticColorAccentDefault = "#000000";
@@ -113,7 +113,7 @@ export const SemanticColorForegroundSubtle = "#9d9d9d";
 export const SemanticColorForegroundWeak = "#c4c4c4";
 export const SemanticColorForegroundWeeaker = "#ebebeb";
 export const SemanticColorForegroundDisabled = "#ebebeb";
-export const SemanticColorForegroundOnDisabled = "#c4c4c4";
+export const SemanticColorForegroundOnDisabled = "#9d9d9d";
 export const SemanticColorLinkDefault = "#3771e0";
 export const SemanticColorLinkHover = "#2c5ab3";
 export const SemanticColorLinkFocus = "#214486";
